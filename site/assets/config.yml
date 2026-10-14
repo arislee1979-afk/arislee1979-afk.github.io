@@ -36,7 +36,7 @@
   "message": {
     "style": "is-info",
     "title": "全部網頁清單",
-    "content": "<a href=\"pages/\" style=\"font-size:1.25rem;font-weight:700\">開啟全部網頁清單 →</a><br>一頁看完所有核准網頁，直接閱讀、搜尋與分類。日期顯示為台北時區，未知日期置底。"
+    "content": "<a href=\"pages/\" style=\"display:inline-block;padding:8px 14px;border-radius:6px;background:#164f9c;color:#fff;text-decoration:none;font-size:1.25rem;font-weight:700\">開啟全部網頁清單 →</a><br>一頁看完所有核准網頁，直接閱讀、搜尋與分類。日期顯示為台北時區，未知日期置底。"
   },
   "services": [
     {

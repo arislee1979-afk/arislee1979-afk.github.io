@@ -1,0 +1,157 @@
+{
+  "title": "Aris 網站書架",
+  "subtitle": "最新到最舊 · 發布時間優先 · HTML 首次入庫時間備用",
+  "documentTitle": "Aris · 網站書架",
+  "icon": "fas fa-book",
+  "header": true,
+  "footer": false,
+  "columns": "1",
+  "connectivityCheck": false,
+  "defaults": {
+    "layout": "list",
+    "colorTheme": "auto"
+  },
+  "links": [
+    {
+      "name": "全部網頁清單 · PAGE LIST",
+      "icon": "fas fa-list",
+      "url": "pages/"
+    },
+    {
+      "name": "最新在前",
+      "icon": "fas fa-clock",
+      "url": "#"
+    },
+    {
+      "name": "依分類",
+      "icon": "fas fa-folder",
+      "url": "#categories"
+    },
+    {
+      "name": "網站登錄表",
+      "icon": "fas fa-list",
+      "url": "sites.json"
+    }
+  ],
+  "message": {
+    "style": "is-info",
+    "title": "全部網頁清單",
+    "content": "<a href=\"pages/\" style=\"display:inline-block;padding:8px 14px;border-radius:6px;background:#164f9c;color:#fff;text-decoration:none;font-size:1.25rem;font-weight:700\">開啟全部網頁清單 →</a><br>一頁看完所有核准網頁，直接閱讀、搜尋與分類。日期顯示為台北時區，未知日期置底。"
+  },
+  "services": [
+    {
+      "name": "最新發布與建立",
+      "icon": "fas fa-clock",
+      "items": [
+        {
+          "name": "Marc Lou · 深色版",
+          "subtitle": "2026-10-11 20:15 · HTML 首次入庫｜人物研究",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/0_YT_TEST/topics/05_MarcLou/",
+          "target": "_blank",
+          "keywords": "Marc Lou · 深色版 人物研究 arislee1979-afk/0_YT_TEST 0_YT_TEST",
+          "tag": "404",
+          "tagstyle": "is-warning"
+        },
+        {
+          "name": "Marc Lou · 深色版 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/0_YT_TEST",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Marc Lou · 淺色版",
+          "subtitle": "2026-10-11 20:15 · HTML 首次入庫｜人物研究",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/0_YT_TEST/topics/05_MarcLou/index-light.html",
+          "target": "_blank",
+          "keywords": "Marc Lou · 淺色版 人物研究 arislee1979-afk/0_YT_TEST 0_YT_TEST",
+          "tag": "404",
+          "tagstyle": "is-warning"
+        },
+        {
+          "name": "Marc Lou · 淺色版 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/0_YT_TEST",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "人類大歷史：科學革命",
+          "subtitle": "2026-10-02 12:02 · HTML 首次入庫｜歷史與文明",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/sapiens-part4-scientific-revolution/",
+          "target": "_blank",
+          "keywords": "人類大歷史：科學革命 歷史與文明 arislee1979-afk/sapiens-part4-scientific-revolution sapiens-part4-scientific-revolution",
+          "tag": "404",
+          "tagstyle": "is-warning"
+        },
+        {
+          "name": "人類大歷史：科學革命 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/sapiens-part4-scientific-revolution",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "人類大歷史：科學與帝國",
+          "subtitle": "2026-10-02 11:13 · HTML 首次入庫｜歷史與文明",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/sapiens-science-empire/",
+          "target": "_blank",
+          "keywords": "人類大歷史：科學與帝國 歷史與文明 arislee1979-afk/sapiens-science-empire sapiens-science-empire",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "人類大歷史：科學與帝國 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/sapiens-science-empire",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "WeRead 知識閱讀站",
+          "subtitle": "2026-10-02 04:43 · HTML 首次入庫｜歷史與文明",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/22_WeRead/",
+          "target": "_blank",
+          "keywords": "WeRead 知識閱讀站 歷史與文明 arislee1979-afk/22_WeRead 22_WeRead",
+          "tag": "404",
+          "tagstyle": "is-warning"
+        },
+        {
+          "name": "WeRead 知識閱讀站 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/22_WeRead",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "GitHub 知識管理",
+          "subtitle": "2026-08-04 03:13 · HTML 首次入庫｜工具與方法",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/21_github_learn/",
+          "target": "_blank",
+          "keywords": "GitHub 知識管理 工具與方法 arislee1979-afk/21_github_learn 21_github_learn",
+          "tag": "404",
+          "tagstyle": "is-warning"
+        },
+        {
+          "name": "GitHub 知識管理 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/21_github_learn",
+          "target": "_blank",
+          "tag": "SOURCE"
+        }
+      ]
+    }
+  ]
+}

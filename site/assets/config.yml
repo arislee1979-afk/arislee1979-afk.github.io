@@ -44,56 +44,722 @@
       "icon": "fas fa-clock",
       "items": [
         {
-          "name": "Marc Lou · 深色版",
-          "subtitle": "2026-10-11 20:15 · HTML 首次入庫｜人物研究",
+          "name": "Lauren Tan: Loop Engineering 與萬級 PR 信任架構全景研究",
+          "subtitle": "2026-10-13 15:32 · HTML 首次入庫｜人物研究",
           "icon": "fas fa-book-open",
-          "url": "https://arislee1979-afk.github.io/0_YT_TEST/topics/05_MarcLou/",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/10_loop-engineer-pr-study/index-light.html",
           "target": "_blank",
-          "keywords": "Marc Lou · 深色版 人物研究 arislee1979-afk/0_YT_TEST 0_YT_TEST",
-          "tag": "404",
-          "tagstyle": "is-warning"
+          "keywords": "Lauren Tan: Loop Engineering 與萬級 PR 信任架構全景研究 人物研究 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
         },
         {
-          "name": "Marc Lou · 深色版 · 原始 Repo",
+          "name": "Lauren Tan: Loop Engineering 與萬級 PR 信任架構全景研究 · 原始 Repo",
           "subtitle": "Markdown 與原始檔案",
           "icon": "fab fa-github",
-          "url": "https://github.com/arislee1979-afk/0_YT_TEST",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
           "target": "_blank",
           "tag": "SOURCE"
         },
         {
-          "name": "Marc Lou · 淺色版",
-          "subtitle": "2026-10-11 20:15 · HTML 首次入庫｜人物研究",
+          "name": "Lauren Tan: Loop Engineering 與萬級 PR 信任架構全景研究",
+          "subtitle": "2026-10-13 15:32 · HTML 首次入庫｜人物研究",
           "icon": "fas fa-book-open",
-          "url": "https://arislee1979-afk.github.io/0_YT_TEST/topics/05_MarcLou/index-light.html",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/10_loop-engineer-pr-study/index.html",
           "target": "_blank",
-          "keywords": "Marc Lou · 淺色版 人物研究 arislee1979-afk/0_YT_TEST 0_YT_TEST",
-          "tag": "404",
-          "tagstyle": "is-warning"
+          "keywords": "Lauren Tan: Loop Engineering 與萬級 PR 信任架構全景研究 人物研究 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
         },
         {
-          "name": "Marc Lou · 淺色版 · 原始 Repo",
+          "name": "Lauren Tan: Loop Engineering 與萬級 PR 信任架構全景研究 · 原始 Repo",
           "subtitle": "Markdown 與原始檔案",
           "icon": "fab fa-github",
-          "url": "https://github.com/arislee1979-afk/0_YT_TEST",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
           "target": "_blank",
           "tag": "SOURCE"
         },
         {
-          "name": "人類大歷史：科學革命",
-          "subtitle": "2026-10-02 12:02 · HTML 首次入庫｜歷史與文明",
+          "name": "Lauren Tan: Loop Engineering 與萬級 PR 信任架構全景研究",
+          "subtitle": "2026-10-13 15:32 · HTML 首次入庫｜人物研究",
           "icon": "fas fa-book-open",
-          "url": "https://arislee1979-afk.github.io/sapiens-part4-scientific-revolution/",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/10_loop-engineer-pr-study/presentation-claude/index.html",
           "target": "_blank",
-          "keywords": "人類大歷史：科學革命 歷史與文明 arislee1979-afk/sapiens-part4-scientific-revolution sapiens-part4-scientific-revolution",
-          "tag": "404",
-          "tagstyle": "is-warning"
+          "keywords": "Lauren Tan: Loop Engineering 與萬級 PR 信任架構全景研究 人物研究 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
         },
         {
-          "name": "人類大歷史：科學革命 · 原始 Repo",
+          "name": "Lauren Tan: Loop Engineering 與萬級 PR 信任架構全景研究 · 原始 Repo",
           "subtitle": "Markdown 與原始檔案",
           "icon": "fab fa-github",
-          "url": "https://github.com/arislee1979-afk/sapiens-part4-scientific-revolution",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Squat University 運動復健與生物力學全景知識庫",
+          "subtitle": "2026-10-12 20:18 · HTML 首次入庫｜人物研究",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/09_SquatUniversity/index-light.html",
+          "target": "_blank",
+          "keywords": "Squat University 運動復健與生物力學全景知識庫 人物研究 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Squat University 運動復健與生物力學全景知識庫 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Squat University 運動復健與生物力學全景知識庫",
+          "subtitle": "2026-10-12 20:18 · HTML 首次入庫｜人物研究",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/09_SquatUniversity/index.html",
+          "target": "_blank",
+          "keywords": "Squat University 運動復健與生物力學全景知識庫 人物研究 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Squat University 運動復健與生物力學全景知識庫 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Squat University 運動復健與生物力學全景知識庫",
+          "subtitle": "2026-10-12 20:18 · HTML 首次入庫｜人物研究",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/09_SquatUniversity/presentation-claude/index.html",
+          "target": "_blank",
+          "keywords": "Squat University 運動復健與生物力學全景知識庫 人物研究 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Squat University 運動復健與生物力學全景知識庫 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "《人類簡史》第四部「科學革命」全景知識庫",
+          "subtitle": "2026-10-12 17:04 · HTML 首次入庫｜歷史與文明",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/50_WeRead/topics/%E5%A4%A7%E6%AD%B7%E5%8F%B2/03_%E7%B2%BE%E8%8F%AF%E5%8A%83%E7%B7%9A%E8%88%87%E6%9B%B8%E8%A9%95%E6%91%98%E8%A6%81/index-light.html",
+          "target": "_blank",
+          "keywords": "《人類簡史》第四部「科學革命」全景知識庫 歷史與文明 arislee1979-afk/50_WeRead 50_WeRead",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "《人類簡史》第四部「科學革命」全景知識庫 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/50_WeRead",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "《人類簡史》第四部「科學革命」全景知識庫",
+          "subtitle": "2026-10-12 17:04 · HTML 首次入庫｜歷史與文明",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/50_WeRead/topics/%E5%A4%A7%E6%AD%B7%E5%8F%B2/03_%E7%B2%BE%E8%8F%AF%E5%8A%83%E7%B7%9A%E8%88%87%E6%9B%B8%E8%A9%95%E6%91%98%E8%A6%81/index.html",
+          "target": "_blank",
+          "keywords": "《人類簡史》第四部「科學革命」全景知識庫 歷史與文明 arislee1979-afk/50_WeRead 50_WeRead",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "《人類簡史》第四部「科學革命」全景知識庫 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/50_WeRead",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "尤瓦爾·赫拉利《人類簡史》第四部「科學革命」全景知識圖譜",
+          "subtitle": "2026-10-12 17:04 · HTML 首次入庫｜歷史與文明",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/50_WeRead/topics/%E5%A4%A7%E6%AD%B7%E5%8F%B2/03_%E7%B2%BE%E8%8F%AF%E5%8A%83%E7%B7%9A%E8%88%87%E6%9B%B8%E8%A9%95%E6%91%98%E8%A6%81/l2/output/sapiens-scientific-revolution.html",
+          "target": "_blank",
+          "keywords": "尤瓦爾·赫拉利《人類簡史》第四部「科學革命」全景知識圖譜 歷史與文明 arislee1979-afk/50_WeRead 50_WeRead",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "尤瓦爾·赫拉利《人類簡史》第四部「科學革命」全景知識圖譜 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/50_WeRead",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "《人類簡史》第四部「科學革命」全景知識庫",
+          "subtitle": "2026-10-12 17:04 · HTML 首次入庫｜歷史與文明",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/50_WeRead/topics/%E5%A4%A7%E6%AD%B7%E5%8F%B2/03_%E7%B2%BE%E8%8F%AF%E5%8A%83%E7%B7%9A%E8%88%87%E6%9B%B8%E8%A9%95%E6%91%98%E8%A6%81/presentation-claude/index.html",
+          "target": "_blank",
+          "keywords": "《人類簡史》第四部「科學革命」全景知識庫 歷史與文明 arislee1979-afk/50_WeRead 50_WeRead",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "《人類簡史》第四部「科學革命」全景知識庫 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/50_WeRead",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "《人類簡史》第四部「科學革命」全景知識庫",
+          "subtitle": "2026-10-12 17:04 · HTML 首次入庫｜歷史與文明",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/50_WeRead/topics/%E5%A4%A7%E6%AD%B7%E5%8F%B2/03_%E7%B2%BE%E8%8F%AF%E5%8A%83%E7%B7%9A%E8%88%87%E6%9B%B8%E8%A9%95%E6%91%98%E8%A6%81/presentation/%E4%BA%BA%E9%A1%9E%E7%B0%A1%E5%8F%B2%E7%AC%AC%E5%9B%9B%E9%83%A8%E5%88%86%E7%A7%91%E5%AD%B8%E9%9D%A9%E5%91%BD.html",
+          "target": "_blank",
+          "keywords": "《人類簡史》第四部「科學革命」全景知識庫 歷史與文明 arislee1979-afk/50_WeRead 50_WeRead",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "《人類簡史》第四部「科學革命」全景知識庫 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/50_WeRead",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "人類大歷史：科學革命、帝國擴張與當代殖民遺產全景知識庫",
+          "subtitle": "2026-10-12 17:04 · HTML 首次入庫｜歷史與文明",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/02_human-history/index-light.html",
+          "target": "_blank",
+          "keywords": "人類大歷史：科學革命、帝國擴張與當代殖民遺產全景知識庫 歷史與文明 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "人類大歷史：科學革命、帝國擴張與當代殖民遺產全景知識庫 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "人類大歷史：科學革命、帝國擴張與當代殖民遺產全景知識庫",
+          "subtitle": "2026-10-12 17:04 · HTML 首次入庫｜歷史與文明",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/02_human-history/presentation-claude/index.html",
+          "target": "_blank",
+          "keywords": "人類大歷史：科學革命、帝國擴張與當代殖民遺產全景知識庫 歷史與文明 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "人類大歷史：科學革命、帝國擴張與當代殖民遺產全景知識庫 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "人類大歷史：科學革命、帝國擴張與當代殖民遺產全景知識庫",
+          "subtitle": "2026-10-12 14:36 · HTML 首次入庫｜歷史與文明",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/02_human-history/index.html",
+          "target": "_blank",
+          "keywords": "人類大歷史：科學革命、帝國擴張與當代殖民遺產全景知識庫 歷史與文明 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "人類大歷史：科學革命、帝國擴張與當代殖民遺產全景知識庫 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Justin Jackson 自資 SaaS 與商業第一性原理全景知識庫",
+          "subtitle": "2026-10-12 14:36 · HTML 首次入庫｜人物研究",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/08_JustinJackson/index-light.html",
+          "target": "_blank",
+          "keywords": "Justin Jackson 自資 SaaS 與商業第一性原理全景知識庫 人物研究 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Justin Jackson 自資 SaaS 與商業第一性原理全景知識庫 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Justin Jackson 自資 SaaS 與商業第一性原理全景知識庫",
+          "subtitle": "2026-10-12 14:36 · HTML 首次入庫｜人物研究",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/08_JustinJackson/index.html",
+          "target": "_blank",
+          "keywords": "Justin Jackson 自資 SaaS 與商業第一性原理全景知識庫 人物研究 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Justin Jackson 自資 SaaS 與商業第一性原理全景知識庫 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Justin Jackson 自資 SaaS 與商業第一性原理全景知識庫",
+          "subtitle": "2026-10-12 14:36 · HTML 首次入庫｜人物研究",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/08_JustinJackson/presentation-claude/index.html",
+          "target": "_blank",
+          "keywords": "Justin Jackson 自資 SaaS 與商業第一性原理全景知識庫 人物研究 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Justin Jackson 自資 SaaS 與商業第一性原理全景知識庫 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Marc Lou 核心思想與一人公司全景",
+          "subtitle": "2026-10-10 20:58 · HTML 首次入庫｜人物研究",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/05_MarcLou/index-light.html",
+          "target": "_blank",
+          "keywords": "Marc Lou 核心思想與一人公司全景 人物研究 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Marc Lou 核心思想與一人公司全景 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Marc Lou 核心思想與一人公司全景",
+          "subtitle": "2026-10-10 20:58 · HTML 首次入庫｜人物研究",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/05_MarcLou/index.html",
+          "target": "_blank",
+          "keywords": "Marc Lou 核心思想與一人公司全景 人物研究 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Marc Lou 核心思想與一人公司全景 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Marc Lou 核心思想與一人公司全景",
+          "subtitle": "2026-10-10 20:58 · HTML 首次入庫｜人物研究",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/05_MarcLou/presentation-claude/index-light.html",
+          "target": "_blank",
+          "keywords": "Marc Lou 核心思想與一人公司全景 人物研究 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Marc Lou 核心思想與一人公司全景 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Marc Lou 核心思想與一人公司全景",
+          "subtitle": "2026-10-10 20:58 · HTML 首次入庫｜人物研究",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/05_MarcLou/presentation-claude/index.html",
+          "target": "_blank",
+          "keywords": "Marc Lou 核心思想與一人公司全景 人物研究 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Marc Lou 核心思想與一人公司全景 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "人類大歷史：科學革命、帝國擴張與資本主義三位一體歷史動力學全景架構",
+          "subtitle": "2026-10-10 14:06 · HTML 首次入庫｜歷史與文明",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/02_human-history/l2/output/human-history-trinity.html",
+          "target": "_blank",
+          "keywords": "人類大歷史：科學革命、帝國擴張與資本主義三位一體歷史動力學全景架構 歷史與文明 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "人類大歷史：科學革命、帝國擴張與資本主義三位一體歷史動力學全景架構 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Alexandr Wang：AI 帝國崛起、前沿基建與核心思想拓撲全景知識庫",
+          "subtitle": "2026-10-10 14:06 · HTML 首次入庫｜人物研究",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/03_%20Alexandr_Wang/index.html",
+          "target": "_blank",
+          "keywords": "Alexandr Wang：AI 帝國崛起、前沿基建與核心思想拓撲全景知識庫 人物研究 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Alexandr Wang：AI 帝國崛起、前沿基建與核心思想拓撲全景知識庫 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Alexandr Wang：AI 帝國崛起、前沿基建與核心思想拓撲",
+          "subtitle": "2026-10-10 14:06 · HTML 首次入庫｜人物研究",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/03_%20Alexandr_Wang/l2/claude/index.html",
+          "target": "_blank",
+          "keywords": "Alexandr Wang：AI 帝國崛起、前沿基建與核心思想拓撲 人物研究 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Alexandr Wang：AI 帝國崛起、前沿基建與核心思想拓撲 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Alexandr Wang：國防軍事 AI、地緣博弈、腦機介面與硅基文明終局",
+          "subtitle": "2026-10-10 14:06 · HTML 首次入庫｜人物研究",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/03_%20Alexandr_Wang/l2/output/alexandr-wang-defense-bci.html",
+          "target": "_blank",
+          "keywords": "Alexandr Wang：國防軍事 AI、地緣博弈、腦機介面與硅基文明終局 人物研究 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Alexandr Wang：國防軍事 AI、地緣博弈、腦機介面與硅基文明終局 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Alexandr Wang 核心思想全景",
+          "subtitle": "2026-10-10 14:06 · HTML 首次入庫｜人物研究",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/03_%20Alexandr_Wang/presentation-claude/index.html",
+          "target": "_blank",
+          "keywords": "Alexandr Wang 核心思想全景 人物研究 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Alexandr Wang 核心思想全景 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Justin Jackson 自資 SaaS 與商業第一性原理全景架構",
+          "subtitle": "2026-10-10 14:06 · HTML 首次入庫｜人物研究",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/08_JustinJackson/l2/output/justinjackson-system.html",
+          "target": "_blank",
+          "keywords": "Justin Jackson 自資 SaaS 與商業第一性原理全景架構 人物研究 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Justin Jackson 自資 SaaS 與商業第一性原理全景架構 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Squat University 運動復健與生物力學全景架構",
+          "subtitle": "2026-10-10 14:06 · HTML 首次入庫｜人物研究",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/09_SquatUniversity/l2/output/squatuniversity-system.html",
+          "target": "_blank",
+          "keywords": "Squat University 運動復健與生物力學全景架構 人物研究 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Squat University 運動復健與生物力學全景架構 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Lauren Tan Loop Engineering 與萬級 PR 信任架構全景架構",
+          "subtitle": "2026-10-10 14:06 · HTML 首次入庫｜人物研究",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/10_loop-engineer-pr-study/l2/output/loop-engineer-system.html",
+          "target": "_blank",
+          "keywords": "Lauren Tan Loop Engineering 與萬級 PR 信任架構全景架構 人物研究 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Lauren Tan Loop Engineering 與萬級 PR 信任架構全景架構 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "知識如何成為可追溯的閱讀頁",
+          "subtitle": "2026-10-05 21:42 · HTML 首次入庫｜知識工程",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/claude-knowledge-renderer/ab/claude/index.html",
+          "target": "_blank",
+          "keywords": "知識如何成為可追溯的閱讀頁 知識工程 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "知識如何成為可追溯的閱讀頁 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "知識如何成為可追溯的閱讀頁",
+          "subtitle": "2026-10-05 21:42 · HTML 首次入庫｜知識工程",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/claude-knowledge-renderer/ab/flash/index.html",
+          "target": "_blank",
+          "keywords": "知識如何成為可追溯的閱讀頁 知識工程 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "知識如何成為可追溯的閱讀頁 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "知識如何成為可追溯的閱讀頁",
+          "subtitle": "2026-10-05 21:42 · HTML 首次入庫｜知識工程",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/claude-knowledge-renderer/cross-repo/target/l2/claude/index.html",
+          "target": "_blank",
+          "keywords": "知識如何成為可追溯的閱讀頁 知識工程 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "知識如何成為可追溯的閱讀頁 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "知識如何成為可追溯的閱讀頁",
+          "subtitle": "2026-10-05 21:42 · HTML 首次入庫｜知識工程",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/claude-knowledge-renderer/cross-repo/target/l2/flash/index.html",
+          "target": "_blank",
+          "keywords": "知識如何成為可追溯的閱讀頁 知識工程 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "知識如何成為可追溯的閱讀頁 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Joy.Edu · 顧問管理",
+          "subtitle": "2026-10-04 23:47 · HTML 首次入庫｜教育與成長",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/91_joy_edu/advisor.html",
+          "target": "_blank",
+          "keywords": "Joy.Edu · 顧問管理 教育與成長 arislee1979-afk/91_joy_edu 91_joy_edu",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Joy.Edu · 顧問管理 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/91_joy_edu",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Joy.Edu · 學習與探索",
+          "subtitle": "2026-10-04 23:47 · HTML 首次入庫｜教育與成長",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/91_joy_edu/applicant.html",
+          "target": "_blank",
+          "keywords": "Joy.Edu · 學習與探索 教育與成長 arislee1979-afk/91_joy_edu 91_joy_edu",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Joy.Edu · 學習與探索 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/91_joy_edu",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Joy.Edu · 顧問管理",
+          "subtitle": "2026-10-04 20:30 · HTML 首次入庫｜教育與成長",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/91_joy_edu/dark.html",
+          "target": "_blank",
+          "keywords": "Joy.Edu · 顧問管理 教育與成長 arislee1979-afk/91_joy_edu 91_joy_edu",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Joy.Edu · 顧問管理 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/91_joy_edu",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Joy.Edu · 顧問管理",
+          "subtitle": "2026-10-04 20:08 · HTML 首次入庫｜教育與成長",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/91_joy_edu/07_%E5%AE%B6%E5%BA%AD%E5%8D%87%E5%AD%B8%E8%A6%8F%E5%8A%83%E5%A0%B1%E5%91%8A.html",
+          "target": "_blank",
+          "keywords": "Joy.Edu · 顧問管理 教育與成長 arislee1979-afk/91_joy_edu 91_joy_edu",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Joy.Edu · 顧問管理 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/91_joy_edu",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Joy.Edu · 顧問管理",
+          "subtitle": "2026-10-04 20:08 · HTML 首次入庫｜教育與成長",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/91_joy_edu/report.html",
+          "target": "_blank",
+          "keywords": "Joy.Edu · 顧問管理 教育與成長 arislee1979-afk/91_joy_edu 91_joy_edu",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Joy.Edu · 顧問管理 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/91_joy_edu",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Joy.Edu · 顧問管理",
+          "subtitle": "2026-10-03 21:44 · HTML 首次入庫｜教育與成長",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/91_joy_edu/claude.html",
+          "target": "_blank",
+          "keywords": "Joy.Edu · 顧問管理 教育與成長 arislee1979-afk/91_joy_edu 91_joy_edu",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Joy.Edu · 顧問管理 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/91_joy_edu",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "知識閱讀模板",
+          "subtitle": "2026-10-02 15:04 · HTML 首次入庫｜知識工程",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/flash-ui-craft-chat-upload/templates/knowledge-reading.html",
+          "target": "_blank",
+          "keywords": "知識閱讀模板 知識工程 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "知識閱讀模板 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
           "target": "_blank",
           "tag": "SOURCE"
         },
@@ -116,38 +782,1316 @@
           "tag": "SOURCE"
         },
         {
-          "name": "WeRead 知識閱讀站",
-          "subtitle": "2026-10-02 04:43 · HTML 首次入庫｜歷史與文明",
+          "name": "疑似停產清單報告",
+          "subtitle": "2026-09-26 17:57 · HTML 首次入庫｜Agent 治理",
           "icon": "fas fa-book-open",
-          "url": "https://arislee1979-afk.github.io/22_WeRead/",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/20260926_%E5%81%9C%E7%94%A2%E6%B8%85%E5%96%AE%E5%A0%B1%E5%91%8A.html",
           "target": "_blank",
-          "keywords": "WeRead 知識閱讀站 歷史與文明 arislee1979-afk/22_WeRead 22_WeRead",
-          "tag": "404",
-          "tagstyle": "is-warning"
+          "keywords": "疑似停產清單報告 Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
         },
         {
-          "name": "WeRead 知識閱讀站 · 原始 Repo",
+          "name": "疑似停產清單報告 · 原始 Repo",
           "subtitle": "Markdown 與原始檔案",
           "icon": "fab fa-github",
-          "url": "https://github.com/arislee1979-afk/22_WeRead",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
           "target": "_blank",
           "tag": "SOURCE"
         },
         {
-          "name": "GitHub 知識管理",
-          "subtitle": "2026-08-04 03:13 · HTML 首次入庫｜工具與方法",
+          "name": "Cycle 01：全 Repo Inventory 與知識架構淺掃",
+          "subtitle": "2026-09-26 12:11 · HTML 首次入庫｜Agent 治理",
           "icon": "fas fa-book-open",
-          "url": "https://arislee1979-afk.github.io/21_github_learn/",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260926_1206_Cycle01_%E5%85%A8RepoInventory%E8%88%87%E7%9F%A5%E8%AD%98%E6%9E%B6%E6%A7%8B%E6%B7%BA%E6%8E%83.html",
           "target": "_blank",
-          "keywords": "GitHub 知識管理 工具與方法 arislee1979-afk/21_github_learn 21_github_learn",
-          "tag": "404",
-          "tagstyle": "is-warning"
+          "keywords": "Cycle 01：全 Repo Inventory 與知識架構淺掃 Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
         },
         {
-          "name": "GitHub 知識管理 · 原始 Repo",
+          "name": "Cycle 01：全 Repo Inventory 與知識架構淺掃 · 原始 Repo",
           "subtitle": "Markdown 與原始檔案",
           "icon": "fab fa-github",
-          "url": "https://github.com/arislee1979-afk/21_github_learn",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Muse 工作佇列",
+          "subtitle": "2026-09-26 12:11 · HTML 首次入庫｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/06_Muse%E5%B7%A5%E4%BD%9C%E4%BD%87%E5%88%97.html",
+          "target": "_blank",
+          "keywords": "Muse 工作佇列 Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Muse 工作佇列 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "知識領域地圖",
+          "subtitle": "2026-09-26 12:11 · HTML 首次入庫｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/05_%E7%9F%A5%E8%AD%98%E9%A0%98%E5%9F%9F%E5%9C%B0%E5%9C%96.html",
+          "target": "_blank",
+          "keywords": "知識領域地圖 Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "知識領域地圖 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "研究與報告索引",
+          "subtitle": "2026-09-26 12:10 · HTML 首次入庫｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/04_%E7%A0%94%E7%A9%B6%E8%88%87%E5%A0%B1%E5%91%8A%E7%B4%A2%E5%BC%95.html",
+          "target": "_blank",
+          "keywords": "研究與報告索引 Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "研究與報告索引 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "全 Repo 總索引",
+          "subtitle": "2026-09-26 12:10 · HTML 首次入庫｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/03_%E5%85%A8Repo%E7%B8%BD%E7%B4%A2%E5%BC%95.html",
+          "target": "_blank",
+          "keywords": "全 Repo 總索引 Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "全 Repo 總索引 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "GitHub Agent 交付契約",
+          "subtitle": "2026-09-26 12:04 · HTML 首次入庫｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/GITHUB_DELIVERY_CONTRACT.html",
+          "target": "_blank",
+          "keywords": "GitHub Agent 交付契約 Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "GitHub Agent 交付契約 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Muse 長期 GitHub 知識架構研究任務",
+          "subtitle": "2026-09-26 12:04 · HTML 首次入庫｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/briefings/20260926_Muse_30%E5%88%86%E9%90%98GitHub%E7%9F%A5%E8%AD%98%E6%9E%B6%E6%A7%8B%E7%A0%94%E7%A9%B6.html",
+          "target": "_blank",
+          "keywords": "Muse 長期 GitHub 知識架構研究任務 Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Muse 長期 GitHub 知識架構研究任務 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "《人類大歷史》科學革命、帝國擴張與當代殖民遺產全景知識庫",
+          "subtitle": "2026-09-12 16:46 · HTML 首次入庫｜知識工程",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/",
+          "target": "_blank",
+          "keywords": "《人類大歷史》科學革命、帝國擴張與當代殖民遺產全景知識庫 知識工程 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "《人類大歷史》科學革命、帝國擴張與當代殖民遺產全景知識庫 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "flash-ui-craft-chat-upload/components/diagram-card.html",
+          "subtitle": "2026-09-12 16:46 · HTML 首次入庫｜知識工程",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/flash-ui-craft-chat-upload/components/diagram-card.html",
+          "target": "_blank",
+          "keywords": "flash-ui-craft-chat-upload/components/diagram-card.html 知識工程 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "flash-ui-craft-chat-upload/components/diagram-card.html · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "flash-ui-craft-chat-upload/components/site-shell.html",
+          "subtitle": "2026-09-12 16:46 · HTML 首次入庫｜知識工程",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/flash-ui-craft-chat-upload/components/site-shell.html",
+          "target": "_blank",
+          "keywords": "flash-ui-craft-chat-upload/components/site-shell.html 知識工程 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "flash-ui-craft-chat-upload/components/site-shell.html · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Architecture Guide - flash-ui-craft",
+          "subtitle": "2026-09-12 16:46 · HTML 首次入庫｜知識工程",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/flash-ui-craft-chat-upload/templates/architecture-guide.html",
+          "target": "_blank",
+          "keywords": "Architecture Guide - flash-ui-craft 知識工程 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Architecture Guide - flash-ui-craft · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Base Shell - flash-ui-craft",
+          "subtitle": "2026-09-12 16:46 · HTML 首次入庫｜知識工程",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/flash-ui-craft-chat-upload/templates/base.html",
+          "target": "_blank",
+          "keywords": "Base Shell - flash-ui-craft 知識工程 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Base Shell - flash-ui-craft · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Card Dashboard - flash-ui-craft",
+          "subtitle": "2026-09-12 16:46 · HTML 首次入庫｜知識工程",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/flash-ui-craft-chat-upload/templates/card-dashboard.html",
+          "target": "_blank",
+          "keywords": "Card Dashboard - flash-ui-craft 知識工程 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Card Dashboard - flash-ui-craft · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Graph Workbench - flash-ui-craft",
+          "subtitle": "2026-09-12 16:46 · HTML 首次入庫｜知識工程",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/flash-ui-craft-chat-upload/templates/graph-workbench.html",
+          "target": "_blank",
+          "keywords": "Graph Workbench - flash-ui-craft 知識工程 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Graph Workbench - flash-ui-craft · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "《人類大歷史》科學革命、帝國擴張與當代殖民遺產全景知識庫",
+          "subtitle": "2026-09-12 16:46 · HTML 首次入庫｜知識工程",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/index.html",
+          "target": "_blank",
+          "keywords": "《人類大歷史》科學革命、帝國擴張與當代殖民遺產全景知識庫 知識工程 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "《人類大歷史》科學革命、帝國擴張與當代殖民遺產全景知識庫 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "21_github_learn · Project-Centric Knowledge Ops",
+          "subtitle": "2026-08-04 03:13 · HTML 首次入庫｜工具與方法",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/50_github_learn/",
+          "target": "_blank",
+          "keywords": "21_github_learn · Project-Centric Knowledge Ops 工具與方法 arislee1979-afk/50_github_learn 50_github_learn",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "21_github_learn · Project-Centric Knowledge Ops · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/50_github_learn",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "21_github_learn · Project-Centric Knowledge Ops",
+          "subtitle": "2026-08-04 03:13 · HTML 首次入庫｜工具與方法",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/50_github_learn/index.html",
+          "target": "_blank",
+          "keywords": "21_github_learn · Project-Centric Knowledge Ops 工具與方法 arislee1979-afk/50_github_learn 50_github_learn",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "21_github_learn · Project-Centric Knowledge Ops · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/50_github_learn",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Joy.Edu · 學習與探索",
+          "subtitle": "2026-06-07 15:23 · HTML 首次入庫｜教育與成長",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/91_joy_edu/",
+          "target": "_blank",
+          "keywords": "Joy.Edu · 學習與探索 教育與成長 arislee1979-afk/91_joy_edu 91_joy_edu",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Joy.Edu · 學習與探索 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/91_joy_edu",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Joy.Edu · 學習與探索",
+          "subtitle": "2026-06-07 15:23 · HTML 首次入庫｜教育與成長",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/91_joy_edu/index.html",
+          "target": "_blank",
+          "keywords": "Joy.Edu · 學習與探索 教育與成長 arislee1979-afk/91_joy_edu 91_joy_edu",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Joy.Edu · 學習與探索 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/91_joy_edu",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Coach Dan Go 核心思想與高績效體態全景",
+          "subtitle": "日期未知｜人物研究",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/06_CoachDanGo/index-light.html",
+          "target": "_blank",
+          "keywords": "Coach Dan Go 核心思想與高績效體態全景 人物研究 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Coach Dan Go 核心思想與高績效體態全景 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Coach Dan Go 核心思想與高績效體態全景 · 知識層",
+          "subtitle": "日期未知｜人物研究",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/06_CoachDanGo/index.html",
+          "target": "_blank",
+          "keywords": "Coach Dan Go 核心思想與高績效體態全景 · 知識層 人物研究 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Coach Dan Go 核心思想與高績效體態全景 · 知識層 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Coach Dan Go 創業者身心健康系統架構 Diagram",
+          "subtitle": "日期未知｜人物研究",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/06_CoachDanGo/l2/output/coachdango-system.html",
+          "target": "_blank",
+          "keywords": "Coach Dan Go 創業者身心健康系統架構 Diagram 人物研究 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Coach Dan Go 創業者身心健康系統架構 Diagram · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Coach Dan Go 核心思想與高績效體態全景",
+          "subtitle": "日期未知｜人物研究",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/06_CoachDanGo/presentation-claude/index.html",
+          "target": "_blank",
+          "keywords": "Coach Dan Go 核心思想與高績效體態全景 人物研究 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Coach Dan Go 核心思想與高績效體態全景 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Rob Walling SaaS 創業者全景知識庫",
+          "subtitle": "日期未知｜人物研究",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/07_RobWalling/index-light.html",
+          "target": "_blank",
+          "keywords": "Rob Walling SaaS 創業者全景知識庫 人物研究 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Rob Walling SaaS 創業者全景知識庫 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Rob Walling SaaS 創業者全景知識庫",
+          "subtitle": "日期未知｜人物研究",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/07_RobWalling/index.html",
+          "target": "_blank",
+          "keywords": "Rob Walling SaaS 創業者全景知識庫 人物研究 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Rob Walling SaaS 創業者全景知識庫 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Rob Walling SaaS 創業者全景方法論與生態架構",
+          "subtitle": "日期未知｜人物研究",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/07_RobWalling/l2/output/robwalling-system.html",
+          "target": "_blank",
+          "keywords": "Rob Walling SaaS 創業者全景方法論與生態架構 人物研究 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Rob Walling SaaS 創業者全景方法論與生態架構 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Rob Walling SaaS 創業者全景知識庫",
+          "subtitle": "日期未知｜人物研究",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/07_RobWalling/presentation-claude/index.html",
+          "target": "_blank",
+          "keywords": "Rob Walling SaaS 創業者全景知識庫 人物研究 arislee1979-afk/10_YT_knowledge 10_YT_knowledge",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Rob Walling SaaS 創業者全景知識庫 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/10_YT_knowledge",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "目前狀態總覽",
+          "subtitle": "日期未知｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/",
+          "target": "_blank",
+          "keywords": "目前狀態總覽 Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "目前狀態總覽 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "目前狀態總覽",
+          "subtitle": "日期未知｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/index.html",
+          "target": "_blank",
+          "keywords": "目前狀態總覽 Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "目前狀態總覽 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Codex 交接：13 PR backlog 與 Muse Cycle 12",
+          "subtitle": "日期未知｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/briefings/20260926_Codex_13_PR_backlog_handoff.html",
+          "target": "_blank",
+          "keywords": "Codex 交接：13 PR backlog 與 Muse Cycle 12 Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Codex 交接：13 PR backlog 與 Muse Cycle 12 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "GitHub Repo 目錄｜24_meta_muse",
+          "subtitle": "日期未知｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/project-directory/index.html",
+          "target": "_blank",
+          "keywords": "GitHub Repo 目錄｜24_meta_muse Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "GitHub Repo 目錄｜24_meta_muse · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Repo 關係圖",
+          "subtitle": "日期未知｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/project-directory/relationships.html",
+          "target": "_blank",
+          "keywords": "Repo 關係圖 Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Repo 關係圖 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Cycle 02：13 半導體深掃與兄弟庫 Hub 模式",
+          "subtitle": "日期未知｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260926_1230_Cycle02_13%E5%8D%8A%E5%B0%8E%E9%AB%94%E6%B7%B1%E6%8E%83%E8%88%87%E5%85%84%E5%BC%9F%E5%BA%ABHub%E6%A8%A1%E5%BC%8F.html",
+          "target": "_blank",
+          "keywords": "Cycle 02：13 半導體深掃與兄弟庫 Hub 模式 Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Cycle 02：13 半導體深掃與兄弟庫 Hub 模式 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Cycle 03：0_Graph 契約層與三方 Review 帳本深掃",
+          "subtitle": "日期未知｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260926_1245_Cycle03_0Graph%E5%A5%91%E7%B4%84%E5%B1%A4%E8%88%87%E4%B8%89%E6%96%B9Review%E5%B8%B3%E6%9C%AC%E6%B7%B1%E6%8E%83.html",
+          "target": "_blank",
+          "keywords": "Cycle 03：0_Graph 契約層與三方 Review 帳本深掃 Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Cycle 03：0_Graph 契約層與三方 Review 帳本深掃 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Cycle 04：深掃 30_investment_hub",
+          "subtitle": "日期未知｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260926_1310_Cycle04_30%E6%8A%95%E8%B3%87Hub%E6%B7%B1%E6%8E%83.html",
+          "target": "_blank",
+          "keywords": "Cycle 04：深掃 30_investment_hub Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Cycle 04：深掃 30_investment_hub · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Cycle 05：深掃 17_deepseek_Kimi",
+          "subtitle": "日期未知｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260926_1330_Cycle05_17%E6%B7%B1%E6%8E%83.html",
+          "target": "_blank",
+          "keywords": "Cycle 05：深掃 17_deepseek_Kimi Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Cycle 05：深掃 17_deepseek_Kimi · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Cycle 06：驗證 13／20 上游 freshness",
+          "subtitle": "日期未知｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260926_1400_Cycle06_13%E8%88%8720Freshness%E9%A9%97%E8%AD%89.html",
+          "target": "_blank",
+          "keywords": "Cycle 06：驗證 13／20 上游 freshness Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Cycle 06：驗證 13／20 上游 freshness · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Cycle 07：重核 30 的 03 operational notes",
+          "subtitle": "日期未知｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260926_1430_Cycle07_03%E7%87%9F%E9%81%8B%E7%AD%86%E8%A8%98%E9%87%8D%E6%A0%B8.html",
+          "target": "_blank",
+          "keywords": "Cycle 07：重核 30 的 03 operational notes Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Cycle 07：重核 30 的 03 operational notes · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Cycle 08：深掃 21_github_learn",
+          "subtitle": "日期未知｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260926_1500_Cycle08_21%E6%B7%B1%E6%8E%83.html",
+          "target": "_blank",
+          "keywords": "Cycle 08：深掃 21_github_learn Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Cycle 08：深掃 21_github_learn · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Cycle 09：重核 30 的 04 weekly review operational guide",
+          "subtitle": "日期未知｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260926_1530_Cycle09_04%E7%87%9F%E9%81%8B%E6%8C%87%E5%8D%97%E9%87%8D%E6%A0%B8.html",
+          "target": "_blank",
+          "keywords": "Cycle 09：重核 30 的 04 weekly review operational guide Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Cycle 09：重核 30 的 04 weekly review operational guide · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Cycle 10：Student Pack 白名單驗證",
+          "subtitle": "日期未知｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260926_1600_Cycle10_StudentPack%E7%99%BD%E5%90%8D%E5%96%AE%E9%A9%97%E8%AD%89.html",
+          "target": "_blank",
+          "keywords": "Cycle 10：Student Pack 白名單驗證 Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Cycle 10：Student Pack 白名單驗證 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Cycle 11：追查 13 產線 09-16 後停產原因",
+          "subtitle": "日期未知｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260926_1630_Cycle11_13%E7%94%A2%E7%B7%9A%E5%81%9C%E7%94%A2%E8%BF%BD%E6%9F%A5.html",
+          "target": "_blank",
+          "keywords": "Cycle 11：追查 13 產線 09-16 後停產原因 Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Cycle 11：追查 13 產線 09-16 後停產原因 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Cycle 12：09_personal_care／23_android 唯讀核對",
+          "subtitle": "日期未知｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260926_2125_Cycle12_09%E8%88%8723%E5%94%AF%E8%AE%80%E6%A0%B8%E5%B0%8D.html",
+          "target": "_blank",
+          "keywords": "Cycle 12：09_personal_care／23_android 唯讀核對 Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Cycle 12：09_personal_care／23_android 唯讀核對 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Cycle 13：joy-ai-edu-for-joy／ingestion_engine 唯讀深掃",
+          "subtitle": "日期未知｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260926_2205_Cycle13_joy%E8%88%87ingestion%E5%94%AF%E8%AE%80%E6%B7%B1%E6%8E%83.html",
+          "target": "_blank",
+          "keywords": "Cycle 13：joy-ai-edu-for-joy／ingestion_engine 唯讀深掃 Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Cycle 13：joy-ai-edu-for-joy／ingestion_engine 唯讀深掃 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Cycle 14：Grok X sentinel 09-13／14 兩庫同步停止追查",
+          "subtitle": "日期未知｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260926_2235_Cycle14_GrokXSentinel%E5%90%8C%E6%AD%A5%E5%81%9C%E6%AD%A2%E8%BF%BD%E6%9F%A5.html",
+          "target": "_blank",
+          "keywords": "Cycle 14：Grok X sentinel 09-13／14 兩庫同步停止追查 Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Cycle 14：Grok X sentinel 09-13／14 兩庫同步停止追查 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Cycle 19：B 群三庫深掃",
+          "subtitle": "日期未知｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260927_0140_Cycle19_B%E7%BE%A4%E4%B8%89%E5%BA%AB%E6%B7%B1%E6%8E%83.html",
+          "target": "_blank",
+          "keywords": "Cycle 19：B 群三庫深掃 Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Cycle 19：B 群三庫深掃 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Cycle 15：0_route_setup 深掃",
+          "subtitle": "日期未知｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260927_0145_Cycle15_0route_setup%E6%B7%B1%E6%8E%83.html",
+          "target": "_blank",
+          "keywords": "Cycle 15：0_route_setup 深掃 Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Cycle 15：0_route_setup 深掃 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Cycle 20：C＋D 群四庫深掃",
+          "subtitle": "日期未知｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260927_0145_Cycle20_CD%E7%BE%A4%E5%9B%9B%E5%BA%AB%E6%B7%B1%E6%8E%83.html",
+          "target": "_blank",
+          "keywords": "Cycle 20：C＋D 群四庫深掃 Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Cycle 20：C＋D 群四庫深掃 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Cycle 21：E 群五庫深掃",
+          "subtitle": "日期未知｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260927_0150_Cycle21_E%E7%BE%A4%E4%BA%94%E5%BA%AB%E6%B7%B1%E6%8E%83.html",
+          "target": "_blank",
+          "keywords": "Cycle 21：E 群五庫深掃 Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Cycle 21：E 群五庫深掃 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Cycle 16：ai-infra 深掃",
+          "subtitle": "日期未知｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260927_0200_Cycle16_ai-infra%E6%B7%B1%E6%8E%83.html",
+          "target": "_blank",
+          "keywords": "Cycle 16：ai-infra 深掃 Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Cycle 16：ai-infra 深掃 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Cycle 22：F＋G＋H 群深掃",
+          "subtitle": "日期未知｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260927_0200_Cycle22_FGH%E7%BE%A4%E6%B7%B1%E6%8E%83.html",
+          "target": "_blank",
+          "keywords": "Cycle 22：F＋G＋H 群深掃 Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Cycle 22：F＋G＋H 群深掃 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Cycle 17：32_wallos_subscription_tracker 深掃",
+          "subtitle": "日期未知｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260927_0210_Cycle17_32_wallos%E6%B7%B1%E6%8E%83.html",
+          "target": "_blank",
+          "keywords": "Cycle 17：32_wallos_subscription_tracker 深掃 Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Cycle 17：32_wallos_subscription_tracker 深掃 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Cycle 23：第一次大盤點總覽（39／39）",
+          "subtitle": "日期未知｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260927_0215_Cycle23_%E7%AC%AC%E4%B8%80%E8%BC%AA%E7%9B%A4%E9%BB%9E%E7%B8%BD%E8%A6%BD.html",
+          "target": "_blank",
+          "keywords": "Cycle 23：第一次大盤點總覽（39／39） Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Cycle 23：第一次大盤點總覽（39／39） · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Cycle 18：31_VSCODE_setup 深掃",
+          "subtitle": "日期未知｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260927_0230_Cycle18_31_VSCODE%E6%B7%B1%E6%8E%83.html",
+          "target": "_blank",
+          "keywords": "Cycle 18：31_VSCODE_setup 深掃 Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Cycle 18：31_VSCODE_setup 深掃 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "PR #4 Phase 0–5：全帳號 Repo 盤點與專案目錄分類草案",
+          "subtitle": "日期未知｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260927_0230_PR4%E5%B0%88%E6%A1%88%E7%9B%AE%E9%8C%84%E7%9B%A4%E9%BB%9E%E8%88%87%E5%88%86%E9%A1%9E%E8%8D%89%E6%A1%88.html",
+          "target": "_blank",
+          "keywords": "PR #4 Phase 0–5：全帳號 Repo 盤點與專案目錄分類草案 Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "PR #4 Phase 0–5：全帳號 Repo 盤點與專案目錄分類草案 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "目前狀態總覽",
+          "subtitle": "日期未知｜Agent 治理",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/%E7%9B%AE%E5%89%8D%E7%8B%80%E6%85%8B%E7%B8%BD%E8%A6%BD.html",
+          "target": "_blank",
+          "keywords": "目前狀態總覽 Agent 治理 arislee1979-afk/40_meta_muse 40_meta_muse",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "目前狀態總覽 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/40_meta_muse",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "GitHub 知識管理 · 站點目錄",
+          "subtitle": "日期未知｜工具與方法",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/50_github_learn/sites/index.html",
+          "target": "_blank",
+          "keywords": "GitHub 知識管理 · 站點目錄 工具與方法 arislee1979-afk/50_github_learn 50_github_learn",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "GitHub 知識管理 · 站點目錄 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/50_github_learn",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "25_hermes 知識庫 · Hermes 桌面版 Harness 全景閱讀站 (L2)",
+          "subtitle": "日期未知｜系統工程",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/50_hermes/",
+          "target": "_blank",
+          "keywords": "25_hermes 知識庫 · Hermes 桌面版 Harness 全景閱讀站 (L2) 系統工程 arislee1979-afk/50_hermes 50_hermes",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "25_hermes 知識庫 · Hermes 桌面版 Harness 全景閱讀站 (L2) · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/50_hermes",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "25_hermes 知識庫 · Hermes 桌面版 Harness 全景閱讀站 (L2)",
+          "subtitle": "日期未知｜系統工程",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/50_hermes/index.html",
+          "target": "_blank",
+          "keywords": "25_hermes 知識庫 · Hermes 桌面版 Harness 全景閱讀站 (L2) 系統工程 arislee1979-afk/50_hermes 50_hermes",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "25_hermes 知識庫 · Hermes 桌面版 Harness 全景閱讀站 (L2) · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/50_hermes",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Hermes 桌面版 Harness 知識站",
+          "subtitle": "日期未知｜系統工程",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/50_hermes/knowledge/claude/index.html",
+          "target": "_blank",
+          "keywords": "Hermes 桌面版 Harness 知識站 系統工程 arislee1979-afk/50_hermes 50_hermes",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Hermes 桌面版 Harness 知識站 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/50_hermes",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Hermes 桌面版 Harness 知識站",
+          "subtitle": "日期未知｜系統工程",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/50_hermes/knowledge/flash/index.html",
+          "target": "_blank",
+          "keywords": "Hermes 桌面版 Harness 知識站 系統工程 arislee1979-afk/50_hermes 50_hermes",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Hermes 桌面版 Harness 知識站 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/50_hermes",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "Hermes 桌面版 Harness 全域架構拓撲圖",
+          "subtitle": "日期未知｜系統工程",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/50_hermes/knowledge/output/hermes-architecture.html",
+          "target": "_blank",
+          "keywords": "Hermes 桌面版 Harness 全域架構拓撲圖 系統工程 arislee1979-afk/50_hermes 50_hermes",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "Hermes 桌面版 Harness 全域架構拓撲圖 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/50_hermes",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "《人類簡史》第四部「科學革命」全景知識庫",
+          "subtitle": "日期未知｜歷史與文明",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/50_WeRead/",
+          "target": "_blank",
+          "keywords": "《人類簡史》第四部「科學革命」全景知識庫 歷史與文明 arislee1979-afk/50_WeRead 50_WeRead",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "《人類簡史》第四部「科學革命」全景知識庫 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/50_WeRead",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "《人類簡史》第四部「科學革命」全景知識庫",
+          "subtitle": "日期未知｜歷史與文明",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/50_WeRead/index-light.html",
+          "target": "_blank",
+          "keywords": "《人類簡史》第四部「科學革命」全景知識庫 歷史與文明 arislee1979-afk/50_WeRead 50_WeRead",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "《人類簡史》第四部「科學革命」全景知識庫 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/50_WeRead",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "《人類簡史》第四部「科學革命」全景知識庫",
+          "subtitle": "日期未知｜歷史與文明",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/50_WeRead/index.html",
+          "target": "_blank",
+          "keywords": "《人類簡史》第四部「科學革命」全景知識庫 歷史與文明 arislee1979-afk/50_WeRead 50_WeRead",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "《人類簡史》第四部「科學革命」全景知識庫 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/50_WeRead",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "尤瓦爾·赫拉利《人類簡史》第四部「科學革命」全景知識圖譜",
+          "subtitle": "日期未知｜歷史與文明",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/50_WeRead/l2/output/sapiens-scientific-revolution.html",
+          "target": "_blank",
+          "keywords": "尤瓦爾·赫拉利《人類簡史》第四部「科學革命」全景知識圖譜 歷史與文明 arislee1979-afk/50_WeRead 50_WeRead",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "尤瓦爾·赫拉利《人類簡史》第四部「科學革命」全景知識圖譜 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/50_WeRead",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "《人類簡史》第四部「科學革命」全景知識庫",
+          "subtitle": "日期未知｜歷史與文明",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/50_WeRead/presentation-claude/index.html",
+          "target": "_blank",
+          "keywords": "《人類簡史》第四部「科學革命」全景知識庫 歷史與文明 arislee1979-afk/50_WeRead 50_WeRead",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "《人類簡史》第四部「科學革命」全景知識庫 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/50_WeRead",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "《人類簡史》第四部「科學革命」全景知識庫",
+          "subtitle": "日期未知｜歷史與文明",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/50_WeRead/presentation/%E4%BA%BA%E9%A1%9E%E7%B0%A1%E5%8F%B2%E7%AC%AC%E5%9B%9B%E9%83%A8%E5%88%86%E7%A7%91%E5%AD%B8%E9%9D%A9%E5%91%BD.html",
+          "target": "_blank",
+          "keywords": "《人類簡史》第四部「科學革命」全景知識庫 歷史與文明 arislee1979-afk/50_WeRead 50_WeRead",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "《人類簡史》第四部「科學革命」全景知識庫 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/50_WeRead",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "人類簡史 第四部分 科學革命 · 知識層",
+          "subtitle": "日期未知｜歷史與文明",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/50_WeRead/%E4%BA%BA%E9%A1%9E%E7%B0%A1%E5%8F%B2%E7%AC%AC%E5%9B%9B%E9%83%A8%E5%88%86%E7%A7%91%E5%AD%B8%E9%9D%A9%E5%91%BD.html",
+          "target": "_blank",
+          "keywords": "人類簡史 第四部分 科學革命 · 知識層 歷史與文明 arislee1979-afk/50_WeRead 50_WeRead",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "人類簡史 第四部分 科學革命 · 知識層 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/50_WeRead",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "中年與狗 · 每日照片日誌",
+          "subtitle": "日期未知｜個人日誌",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/67_kuri/",
+          "target": "_blank",
+          "keywords": "中年與狗 · 每日照片日誌 個人日誌 arislee1979-afk/67_kuri 67_kuri",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "中年與狗 · 每日照片日誌 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/67_kuri",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "人類簡史 第四部分 科學革命 · 知識層",
+          "subtitle": "日期未知｜歷史與文明",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/80_sapiens_part4/",
+          "target": "_blank",
+          "keywords": "人類簡史 第四部分 科學革命 · 知識層 歷史與文明 arislee1979-afk/80_sapiens_part4 80_sapiens_part4",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "人類簡史 第四部分 科學革命 · 知識層 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/80_sapiens_part4",
+          "target": "_blank",
+          "tag": "SOURCE"
+        },
+        {
+          "name": "人類簡史 第四部分 科學革命 · 知識層",
+          "subtitle": "日期未知｜歷史與文明",
+          "icon": "fas fa-book-open",
+          "url": "https://arislee1979-afk.github.io/80_sapiens_part4/index.html",
+          "target": "_blank",
+          "keywords": "人類簡史 第四部分 科學革命 · 知識層 歷史與文明 arislee1979-afk/80_sapiens_part4 80_sapiens_part4",
+          "tag": "LIVE",
+          "tagstyle": "is-success"
+        },
+        {
+          "name": "人類簡史 第四部分 科學革命 · 知識層 · 原始 Repo",
+          "subtitle": "Markdown 與原始檔案",
+          "icon": "fab fa-github",
+          "url": "https://github.com/arislee1979-afk/80_sapiens_part4",
           "target": "_blank",
           "tag": "SOURCE"
         }

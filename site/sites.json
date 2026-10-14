@@ -1,57 +1,723 @@
 [
   {
-    "title": "Marc Lou · 深色版",
-    "repository": "arislee1979-afk/0_YT_TEST",
-    "url": "https://arislee1979-afk.github.io/0_YT_TEST/topics/05_MarcLou/",
+    "title": "Lauren Tan: Loop Engineering 與萬級 PR 信任架構全景研究",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/10_loop-engineer-pr-study/index-light.html",
     "category": "人物研究",
     "tags": [
-      "0_YT_TEST"
+      "10_YT_knowledge"
     ],
     "published_at": null,
-    "file_created_at": "2026-10-11T12:15:01Z",
-    "file_created_source": "https://github.com/arislee1979-afk/0_YT_TEST/commit/f6f92a53809fb03dbc75f42c75ab2aca6015bf27",
-    "status": "404",
-    "http_status": 404,
-    "checked_at": "2026-10-14T13:57:46.770102+00:00",
-    "sort_at": "2026-10-11T12:15:01+00:00",
+    "file_created_at": "2026-10-13T15:32:45+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/a733043352638b47aca793ae4a410c0eb8ff0fa8",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-13T15:32:45+08:00",
     "date_basis": "file_created_at",
-    "date_label": "2026-10-11 20:15 · HTML 首次入庫"
+    "date_label": "2026-10-13 15:32 · HTML 首次入庫"
   },
   {
-    "title": "Marc Lou · 淺色版",
-    "repository": "arislee1979-afk/0_YT_TEST",
-    "url": "https://arislee1979-afk.github.io/0_YT_TEST/topics/05_MarcLou/index-light.html",
+    "title": "Lauren Tan: Loop Engineering 與萬級 PR 信任架構全景研究",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/10_loop-engineer-pr-study/index.html",
     "category": "人物研究",
     "tags": [
-      "0_YT_TEST"
+      "10_YT_knowledge"
     ],
     "published_at": null,
-    "file_created_at": "2026-10-11T12:15:01Z",
-    "file_created_source": "https://github.com/arislee1979-afk/0_YT_TEST/commit/f6f92a53809fb03dbc75f42c75ab2aca6015bf27",
-    "status": "404",
-    "http_status": 404,
-    "checked_at": "2026-10-14T13:57:46.969178+00:00",
-    "sort_at": "2026-10-11T12:15:01+00:00",
+    "file_created_at": "2026-10-13T15:32:45+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/a733043352638b47aca793ae4a410c0eb8ff0fa8",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-13T15:32:45+08:00",
     "date_basis": "file_created_at",
-    "date_label": "2026-10-11 20:15 · HTML 首次入庫"
+    "date_label": "2026-10-13 15:32 · HTML 首次入庫"
   },
   {
-    "title": "人類大歷史：科學革命",
-    "repository": "arislee1979-afk/sapiens-part4-scientific-revolution",
-    "url": "https://arislee1979-afk.github.io/sapiens-part4-scientific-revolution/",
+    "title": "Lauren Tan: Loop Engineering 與萬級 PR 信任架構全景研究",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/10_loop-engineer-pr-study/presentation-claude/index.html",
+    "category": "人物研究",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-13T15:32:45+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/a733043352638b47aca793ae4a410c0eb8ff0fa8",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-13T15:32:45+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-13 15:32 · HTML 首次入庫"
+  },
+  {
+    "title": "Squat University 運動復健與生物力學全景知識庫",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/09_SquatUniversity/index-light.html",
+    "category": "人物研究",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-12T20:18:43+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/991b808dd8c03acc85ce3a3458492a9735182f88",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-12T20:18:43+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-12 20:18 · HTML 首次入庫"
+  },
+  {
+    "title": "Squat University 運動復健與生物力學全景知識庫",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/09_SquatUniversity/index.html",
+    "category": "人物研究",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-12T20:18:43+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/991b808dd8c03acc85ce3a3458492a9735182f88",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-12T20:18:43+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-12 20:18 · HTML 首次入庫"
+  },
+  {
+    "title": "Squat University 運動復健與生物力學全景知識庫",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/09_SquatUniversity/presentation-claude/index.html",
+    "category": "人物研究",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-12T20:18:43+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/991b808dd8c03acc85ce3a3458492a9735182f88",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-12T20:18:43+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-12 20:18 · HTML 首次入庫"
+  },
+  {
+    "title": "《人類簡史》第四部「科學革命」全景知識庫",
+    "repository": "arislee1979-afk/50_WeRead",
+    "url": "https://arislee1979-afk.github.io/50_WeRead/topics/%E5%A4%A7%E6%AD%B7%E5%8F%B2/03_%E7%B2%BE%E8%8F%AF%E5%8A%83%E7%B7%9A%E8%88%87%E6%9B%B8%E8%A9%95%E6%91%98%E8%A6%81/index-light.html",
     "category": "歷史與文明",
     "tags": [
-      "sapiens-part4-scientific-revolution"
+      "50_WeRead"
     ],
     "published_at": null,
-    "file_created_at": "2026-10-02T04:02:22Z",
-    "file_created_source": "https://github.com/arislee1979-afk/sapiens-part4-scientific-revolution/commit/f8bca26d2fed0935986dd157a1d9cacaa3acb0af",
-    "status": "404",
-    "http_status": 404,
-    "checked_at": "2026-10-14T13:57:46.547338+00:00",
-    "sort_at": "2026-10-02T04:02:22+00:00",
+    "file_created_at": "2026-10-12T17:04:59+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/50_WeRead/commit/1cc0d0add444a5311535c742b8494c2e17025658",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-12T17:04:59+08:00",
     "date_basis": "file_created_at",
-    "date_label": "2026-10-02 12:02 · HTML 首次入庫"
+    "date_label": "2026-10-12 17:04 · HTML 首次入庫"
+  },
+  {
+    "title": "《人類簡史》第四部「科學革命」全景知識庫",
+    "repository": "arislee1979-afk/50_WeRead",
+    "url": "https://arislee1979-afk.github.io/50_WeRead/topics/%E5%A4%A7%E6%AD%B7%E5%8F%B2/03_%E7%B2%BE%E8%8F%AF%E5%8A%83%E7%B7%9A%E8%88%87%E6%9B%B8%E8%A9%95%E6%91%98%E8%A6%81/index.html",
+    "category": "歷史與文明",
+    "tags": [
+      "50_WeRead"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-12T17:04:59+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/50_WeRead/commit/1cc0d0add444a5311535c742b8494c2e17025658",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-12T17:04:59+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-12 17:04 · HTML 首次入庫"
+  },
+  {
+    "title": "尤瓦爾·赫拉利《人類簡史》第四部「科學革命」全景知識圖譜",
+    "repository": "arislee1979-afk/50_WeRead",
+    "url": "https://arislee1979-afk.github.io/50_WeRead/topics/%E5%A4%A7%E6%AD%B7%E5%8F%B2/03_%E7%B2%BE%E8%8F%AF%E5%8A%83%E7%B7%9A%E8%88%87%E6%9B%B8%E8%A9%95%E6%91%98%E8%A6%81/l2/output/sapiens-scientific-revolution.html",
+    "category": "歷史與文明",
+    "tags": [
+      "50_WeRead"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-12T17:04:59+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/50_WeRead/commit/1cc0d0add444a5311535c742b8494c2e17025658",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-12T17:04:59+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-12 17:04 · HTML 首次入庫"
+  },
+  {
+    "title": "《人類簡史》第四部「科學革命」全景知識庫",
+    "repository": "arislee1979-afk/50_WeRead",
+    "url": "https://arislee1979-afk.github.io/50_WeRead/topics/%E5%A4%A7%E6%AD%B7%E5%8F%B2/03_%E7%B2%BE%E8%8F%AF%E5%8A%83%E7%B7%9A%E8%88%87%E6%9B%B8%E8%A9%95%E6%91%98%E8%A6%81/presentation-claude/index.html",
+    "category": "歷史與文明",
+    "tags": [
+      "50_WeRead"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-12T17:04:59+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/50_WeRead/commit/1cc0d0add444a5311535c742b8494c2e17025658",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-12T17:04:59+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-12 17:04 · HTML 首次入庫"
+  },
+  {
+    "title": "《人類簡史》第四部「科學革命」全景知識庫",
+    "repository": "arislee1979-afk/50_WeRead",
+    "url": "https://arislee1979-afk.github.io/50_WeRead/topics/%E5%A4%A7%E6%AD%B7%E5%8F%B2/03_%E7%B2%BE%E8%8F%AF%E5%8A%83%E7%B7%9A%E8%88%87%E6%9B%B8%E8%A9%95%E6%91%98%E8%A6%81/presentation/%E4%BA%BA%E9%A1%9E%E7%B0%A1%E5%8F%B2%E7%AC%AC%E5%9B%9B%E9%83%A8%E5%88%86%E7%A7%91%E5%AD%B8%E9%9D%A9%E5%91%BD.html",
+    "category": "歷史與文明",
+    "tags": [
+      "50_WeRead"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-12T17:04:59+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/50_WeRead/commit/1cc0d0add444a5311535c742b8494c2e17025658",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-12T17:04:59+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-12 17:04 · HTML 首次入庫"
+  },
+  {
+    "title": "人類大歷史：科學革命、帝國擴張與當代殖民遺產全景知識庫",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/02_human-history/index-light.html",
+    "category": "歷史與文明",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-12T17:04:10+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/a908accea5aa0d498f8055298ae877cde008efd1",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-12T17:04:10+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-12 17:04 · HTML 首次入庫"
+  },
+  {
+    "title": "人類大歷史：科學革命、帝國擴張與當代殖民遺產全景知識庫",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/02_human-history/presentation-claude/index.html",
+    "category": "歷史與文明",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-12T17:04:10+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/a908accea5aa0d498f8055298ae877cde008efd1",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-12T17:04:10+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-12 17:04 · HTML 首次入庫"
+  },
+  {
+    "title": "人類大歷史：科學革命、帝國擴張與當代殖民遺產全景知識庫",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/02_human-history/index.html",
+    "category": "歷史與文明",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-12T14:36:15+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/85796c79d7333a065c16469c63a509330b2adaef",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-12T14:36:15+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-12 14:36 · HTML 首次入庫"
+  },
+  {
+    "title": "Justin Jackson 自資 SaaS 與商業第一性原理全景知識庫",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/08_JustinJackson/index-light.html",
+    "category": "人物研究",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-12T14:36:15+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/85796c79d7333a065c16469c63a509330b2adaef",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-12T14:36:15+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-12 14:36 · HTML 首次入庫"
+  },
+  {
+    "title": "Justin Jackson 自資 SaaS 與商業第一性原理全景知識庫",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/08_JustinJackson/index.html",
+    "category": "人物研究",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-12T14:36:15+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/85796c79d7333a065c16469c63a509330b2adaef",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-12T14:36:15+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-12 14:36 · HTML 首次入庫"
+  },
+  {
+    "title": "Justin Jackson 自資 SaaS 與商業第一性原理全景知識庫",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/08_JustinJackson/presentation-claude/index.html",
+    "category": "人物研究",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-12T14:36:15+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/85796c79d7333a065c16469c63a509330b2adaef",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-12T14:36:15+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-12 14:36 · HTML 首次入庫"
+  },
+  {
+    "title": "Marc Lou 核心思想與一人公司全景",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/05_MarcLou/index-light.html",
+    "category": "人物研究",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-10T20:58:45+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/33525c24e83c7ddc257d4d274229d2bd9c08bdf8",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-10T20:58:45+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-10 20:58 · HTML 首次入庫"
+  },
+  {
+    "title": "Marc Lou 核心思想與一人公司全景",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/05_MarcLou/index.html",
+    "category": "人物研究",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-10T20:58:45+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/33525c24e83c7ddc257d4d274229d2bd9c08bdf8",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-10T20:58:45+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-10 20:58 · HTML 首次入庫"
+  },
+  {
+    "title": "Marc Lou 核心思想與一人公司全景",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/05_MarcLou/presentation-claude/index-light.html",
+    "category": "人物研究",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-10T20:58:45+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/33525c24e83c7ddc257d4d274229d2bd9c08bdf8",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-10T20:58:45+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-10 20:58 · HTML 首次入庫"
+  },
+  {
+    "title": "Marc Lou 核心思想與一人公司全景",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/05_MarcLou/presentation-claude/index.html",
+    "category": "人物研究",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-10T20:58:45+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/33525c24e83c7ddc257d4d274229d2bd9c08bdf8",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-10T20:58:45+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-10 20:58 · HTML 首次入庫"
+  },
+  {
+    "title": "人類大歷史：科學革命、帝國擴張與資本主義三位一體歷史動力學全景架構",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/02_human-history/l2/output/human-history-trinity.html",
+    "category": "歷史與文明",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-10T14:06:38+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/6a34fe3deff3cf6718aaebdf945769981dab50b5",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-10T14:06:38+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-10 14:06 · HTML 首次入庫"
+  },
+  {
+    "title": "Alexandr Wang：AI 帝國崛起、前沿基建與核心思想拓撲全景知識庫",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/03_%20Alexandr_Wang/index.html",
+    "category": "人物研究",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-10T14:06:38+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/6a34fe3deff3cf6718aaebdf945769981dab50b5",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-10T14:06:38+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-10 14:06 · HTML 首次入庫"
+  },
+  {
+    "title": "Alexandr Wang：AI 帝國崛起、前沿基建與核心思想拓撲",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/03_%20Alexandr_Wang/l2/claude/index.html",
+    "category": "人物研究",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-10T14:06:38+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/6a34fe3deff3cf6718aaebdf945769981dab50b5",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-10T14:06:38+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-10 14:06 · HTML 首次入庫"
+  },
+  {
+    "title": "Alexandr Wang：國防軍事 AI、地緣博弈、腦機介面與硅基文明終局",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/03_%20Alexandr_Wang/l2/output/alexandr-wang-defense-bci.html",
+    "category": "人物研究",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-10T14:06:38+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/6a34fe3deff3cf6718aaebdf945769981dab50b5",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-10T14:06:38+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-10 14:06 · HTML 首次入庫"
+  },
+  {
+    "title": "Alexandr Wang 核心思想全景",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/03_%20Alexandr_Wang/presentation-claude/index.html",
+    "category": "人物研究",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-10T14:06:38+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/6a34fe3deff3cf6718aaebdf945769981dab50b5",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-10T14:06:38+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-10 14:06 · HTML 首次入庫"
+  },
+  {
+    "title": "Justin Jackson 自資 SaaS 與商業第一性原理全景架構",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/08_JustinJackson/l2/output/justinjackson-system.html",
+    "category": "人物研究",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-10T14:06:38+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/6a34fe3deff3cf6718aaebdf945769981dab50b5",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-10T14:06:38+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-10 14:06 · HTML 首次入庫"
+  },
+  {
+    "title": "Squat University 運動復健與生物力學全景架構",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/09_SquatUniversity/l2/output/squatuniversity-system.html",
+    "category": "人物研究",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-10T14:06:38+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/6a34fe3deff3cf6718aaebdf945769981dab50b5",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-10T14:06:38+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-10 14:06 · HTML 首次入庫"
+  },
+  {
+    "title": "Lauren Tan Loop Engineering 與萬級 PR 信任架構全景架構",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/10_loop-engineer-pr-study/l2/output/loop-engineer-system.html",
+    "category": "人物研究",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-10T14:06:38+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/6a34fe3deff3cf6718aaebdf945769981dab50b5",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-10T14:06:38+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-10 14:06 · HTML 首次入庫"
+  },
+  {
+    "title": "知識如何成為可追溯的閱讀頁",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/claude-knowledge-renderer/ab/claude/index.html",
+    "category": "知識工程",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-05T21:42:38+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/ca8ba2a23d75001a65a6630971fdf2ad5e2ec9d3",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-05T21:42:38+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-05 21:42 · HTML 首次入庫"
+  },
+  {
+    "title": "知識如何成為可追溯的閱讀頁",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/claude-knowledge-renderer/ab/flash/index.html",
+    "category": "知識工程",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-05T21:42:38+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/ca8ba2a23d75001a65a6630971fdf2ad5e2ec9d3",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-05T21:42:38+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-05 21:42 · HTML 首次入庫"
+  },
+  {
+    "title": "知識如何成為可追溯的閱讀頁",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/claude-knowledge-renderer/cross-repo/target/l2/claude/index.html",
+    "category": "知識工程",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-05T21:42:38+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/ca8ba2a23d75001a65a6630971fdf2ad5e2ec9d3",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-05T21:42:38+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-05 21:42 · HTML 首次入庫"
+  },
+  {
+    "title": "知識如何成為可追溯的閱讀頁",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/claude-knowledge-renderer/cross-repo/target/l2/flash/index.html",
+    "category": "知識工程",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-05T21:42:38+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/ca8ba2a23d75001a65a6630971fdf2ad5e2ec9d3",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-05T21:42:38+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-05 21:42 · HTML 首次入庫"
+  },
+  {
+    "title": "Joy.Edu · 顧問管理",
+    "repository": "arislee1979-afk/91_joy_edu",
+    "url": "https://arislee1979-afk.github.io/91_joy_edu/advisor.html",
+    "category": "教育與成長",
+    "tags": [
+      "91_joy_edu"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-04T23:47:40+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/91_joy_edu/commit/2dfb54df2cb0eea18dfb53a5c8605fc6e9c776f1",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-04T23:47:40+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-04 23:47 · HTML 首次入庫"
+  },
+  {
+    "title": "Joy.Edu · 學習與探索",
+    "repository": "arislee1979-afk/91_joy_edu",
+    "url": "https://arislee1979-afk.github.io/91_joy_edu/applicant.html",
+    "category": "教育與成長",
+    "tags": [
+      "91_joy_edu"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-04T23:47:40+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/91_joy_edu/commit/2dfb54df2cb0eea18dfb53a5c8605fc6e9c776f1",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-04T23:47:40+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-04 23:47 · HTML 首次入庫"
+  },
+  {
+    "title": "Joy.Edu · 顧問管理",
+    "repository": "arislee1979-afk/91_joy_edu",
+    "url": "https://arislee1979-afk.github.io/91_joy_edu/dark.html",
+    "category": "教育與成長",
+    "tags": [
+      "91_joy_edu"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-04T20:30:55+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/91_joy_edu/commit/8edcd1461d6653d4267db275dac67ca50156ccd7",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-04T20:30:55+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-04 20:30 · HTML 首次入庫"
+  },
+  {
+    "title": "Joy.Edu · 顧問管理",
+    "repository": "arislee1979-afk/91_joy_edu",
+    "url": "https://arislee1979-afk.github.io/91_joy_edu/07_%E5%AE%B6%E5%BA%AD%E5%8D%87%E5%AD%B8%E8%A6%8F%E5%8A%83%E5%A0%B1%E5%91%8A.html",
+    "category": "教育與成長",
+    "tags": [
+      "91_joy_edu"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-04T20:08:54+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/91_joy_edu/commit/d933b06b2039db461784b911c64c2158dfbb4cc9",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-04T20:08:54+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-04 20:08 · HTML 首次入庫"
+  },
+  {
+    "title": "Joy.Edu · 顧問管理",
+    "repository": "arislee1979-afk/91_joy_edu",
+    "url": "https://arislee1979-afk.github.io/91_joy_edu/report.html",
+    "category": "教育與成長",
+    "tags": [
+      "91_joy_edu"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-04T20:08:54+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/91_joy_edu/commit/d933b06b2039db461784b911c64c2158dfbb4cc9",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-04T20:08:54+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-04 20:08 · HTML 首次入庫"
+  },
+  {
+    "title": "Joy.Edu · 顧問管理",
+    "repository": "arislee1979-afk/91_joy_edu",
+    "url": "https://arislee1979-afk.github.io/91_joy_edu/claude.html",
+    "category": "教育與成長",
+    "tags": [
+      "91_joy_edu"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-03T21:44:12+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/91_joy_edu/commit/c1b7531f9f5ff7bd1e5835a09cff3f60b343f4bb",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-03T21:44:12+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-03 21:44 · HTML 首次入庫"
+  },
+  {
+    "title": "知識閱讀模板",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/flash-ui-craft-chat-upload/templates/knowledge-reading.html",
+    "category": "知識工程",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-10-02T15:04:28+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/85c2bd76910ded445763782e91a41b3b326037d3",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-10-02T15:04:28+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-10-02 15:04 · HTML 首次入庫"
   },
   {
     "title": "人類大歷史：科學與帝國",
@@ -66,45 +732,1323 @@
     "file_created_source": "https://github.com/arislee1979-afk/sapiens-science-empire/commit/c4164cab930c4033fac305747f57aa6f249437af",
     "status": "LIVE",
     "http_status": 200,
-    "checked_at": "2026-10-12T09:17:22.656992+00:00",
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
     "sort_at": "2026-10-02T03:13:38+00:00",
     "date_basis": "file_created_at",
     "date_label": "2026-10-02 11:13 · HTML 首次入庫"
   },
   {
-    "title": "WeRead 知識閱讀站",
-    "repository": "arislee1979-afk/22_WeRead",
-    "url": "https://arislee1979-afk.github.io/22_WeRead/",
-    "category": "歷史與文明",
+    "title": "疑似停產清單報告",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/20260926_%E5%81%9C%E7%94%A2%E6%B8%85%E5%96%AE%E5%A0%B1%E5%91%8A.html",
+    "category": "Agent 治理",
     "tags": [
-      "22_WeRead"
+      "40_meta_muse"
     ],
     "published_at": null,
-    "file_created_at": "2026-10-01T20:43:08Z",
-    "file_created_source": "https://github.com/arislee1979-afk/22_WeRead/commit/1f5d7df08e00f5a6edb0f6ac78481fff6931fe77",
-    "status": "404",
-    "http_status": 404,
-    "checked_at": "2026-10-14T13:57:46.977828+00:00",
-    "sort_at": "2026-10-01T20:43:08+00:00",
+    "file_created_at": "2026-09-26T17:57:37+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/40_meta_muse/commit/952daf05962e38a3b8d8c097dbf1db75ac7d1e14",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-09-26T17:57:37+08:00",
     "date_basis": "file_created_at",
-    "date_label": "2026-10-02 04:43 · HTML 首次入庫"
+    "date_label": "2026-09-26 17:57 · HTML 首次入庫"
   },
   {
-    "title": "GitHub 知識管理",
-    "repository": "arislee1979-afk/21_github_learn",
-    "url": "https://arislee1979-afk.github.io/21_github_learn/",
-    "category": "工具與方法",
+    "title": "Cycle 01：全 Repo Inventory 與知識架構淺掃",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260926_1206_Cycle01_%E5%85%A8RepoInventory%E8%88%87%E7%9F%A5%E8%AD%98%E6%9E%B6%E6%A7%8B%E6%B7%BA%E6%8E%83.html",
+    "category": "Agent 治理",
     "tags": [
-      "21_github_learn"
+      "40_meta_muse"
     ],
     "published_at": null,
-    "file_created_at": "2026-08-03T19:13:02Z",
-    "file_created_source": "https://github.com/arislee1979-afk/21_github_learn/commit/5637c68a1af1936934fce58467bfdb6370991858",
-    "status": "404",
-    "http_status": 404,
-    "checked_at": "2026-10-14T13:57:46.603766+00:00",
-    "sort_at": "2026-08-03T19:13:02+00:00",
+    "file_created_at": "2026-09-26T12:11:09+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/40_meta_muse/commit/c8af80dadf49cf277f55d7413c496baa8f6348fc",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-09-26T12:11:09+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-09-26 12:11 · HTML 首次入庫"
+  },
+  {
+    "title": "Muse 工作佇列",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/06_Muse%E5%B7%A5%E4%BD%9C%E4%BD%87%E5%88%97.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-09-26T12:11:04+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/40_meta_muse/commit/c17e3b1a1db78aa4d72194f5d278f9d94ceb3ac7",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-09-26T12:11:04+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-09-26 12:11 · HTML 首次入庫"
+  },
+  {
+    "title": "知識領域地圖",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/05_%E7%9F%A5%E8%AD%98%E9%A0%98%E5%9F%9F%E5%9C%B0%E5%9C%96.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-09-26T12:11:01+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/40_meta_muse/commit/4131c7b965f7b0868e0a04d15a46648385f14d07",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-09-26T12:11:01+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-09-26 12:11 · HTML 首次入庫"
+  },
+  {
+    "title": "研究與報告索引",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/04_%E7%A0%94%E7%A9%B6%E8%88%87%E5%A0%B1%E5%91%8A%E7%B4%A2%E5%BC%95.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-09-26T12:10:59+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/40_meta_muse/commit/2b9c10d366fa618b9414442702b417dff117f020",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-09-26T12:10:59+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-09-26 12:10 · HTML 首次入庫"
+  },
+  {
+    "title": "全 Repo 總索引",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/03_%E5%85%A8Repo%E7%B8%BD%E7%B4%A2%E5%BC%95.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-09-26T12:10:54+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/40_meta_muse/commit/e91b455a75b4162ead5b2b6e91cc2e14505a4777",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-09-26T12:10:54+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-09-26 12:10 · HTML 首次入庫"
+  },
+  {
+    "title": "GitHub Agent 交付契約",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/GITHUB_DELIVERY_CONTRACT.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-09-26T12:04:24+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/40_meta_muse/commit/dc3e0e2d0f49c5ac8b61fe62428848b346f12154",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-09-26T12:04:24+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-09-26 12:04 · HTML 首次入庫"
+  },
+  {
+    "title": "Muse 長期 GitHub 知識架構研究任務",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/briefings/20260926_Muse_30%E5%88%86%E9%90%98GitHub%E7%9F%A5%E8%AD%98%E6%9E%B6%E6%A7%8B%E7%A0%94%E7%A9%B6.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-09-26T12:04:24+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/40_meta_muse/commit/dc3e0e2d0f49c5ac8b61fe62428848b346f12154",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-09-26T12:04:24+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-09-26 12:04 · HTML 首次入庫"
+  },
+  {
+    "title": "《人類大歷史》科學革命、帝國擴張與當代殖民遺產全景知識庫",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/",
+    "category": "知識工程",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-09-12T16:46:29+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/2166d3117c5cabcdb12ad7a3ea083446ed4b8a08",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-09-12T16:46:29+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-09-12 16:46 · HTML 首次入庫"
+  },
+  {
+    "title": "flash-ui-craft-chat-upload/components/diagram-card.html",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/flash-ui-craft-chat-upload/components/diagram-card.html",
+    "category": "知識工程",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-09-12T16:46:29+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/2166d3117c5cabcdb12ad7a3ea083446ed4b8a08",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-09-12T16:46:29+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-09-12 16:46 · HTML 首次入庫"
+  },
+  {
+    "title": "flash-ui-craft-chat-upload/components/site-shell.html",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/flash-ui-craft-chat-upload/components/site-shell.html",
+    "category": "知識工程",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-09-12T16:46:29+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/2166d3117c5cabcdb12ad7a3ea083446ed4b8a08",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-09-12T16:46:29+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-09-12 16:46 · HTML 首次入庫"
+  },
+  {
+    "title": "Architecture Guide - flash-ui-craft",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/flash-ui-craft-chat-upload/templates/architecture-guide.html",
+    "category": "知識工程",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-09-12T16:46:29+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/2166d3117c5cabcdb12ad7a3ea083446ed4b8a08",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-09-12T16:46:29+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-09-12 16:46 · HTML 首次入庫"
+  },
+  {
+    "title": "Base Shell - flash-ui-craft",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/flash-ui-craft-chat-upload/templates/base.html",
+    "category": "知識工程",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-09-12T16:46:29+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/2166d3117c5cabcdb12ad7a3ea083446ed4b8a08",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-09-12T16:46:29+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-09-12 16:46 · HTML 首次入庫"
+  },
+  {
+    "title": "Card Dashboard - flash-ui-craft",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/flash-ui-craft-chat-upload/templates/card-dashboard.html",
+    "category": "知識工程",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-09-12T16:46:29+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/2166d3117c5cabcdb12ad7a3ea083446ed4b8a08",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-09-12T16:46:29+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-09-12 16:46 · HTML 首次入庫"
+  },
+  {
+    "title": "Graph Workbench - flash-ui-craft",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/flash-ui-craft-chat-upload/templates/graph-workbench.html",
+    "category": "知識工程",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-09-12T16:46:29+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/2166d3117c5cabcdb12ad7a3ea083446ed4b8a08",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-09-12T16:46:29+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-09-12 16:46 · HTML 首次入庫"
+  },
+  {
+    "title": "《人類大歷史》科學革命、帝國擴張與當代殖民遺產全景知識庫",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/index.html",
+    "category": "知識工程",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-09-12T16:46:29+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/10_YT_knowledge/commit/2166d3117c5cabcdb12ad7a3ea083446ed4b8a08",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-09-12T16:46:29+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-09-12 16:46 · HTML 首次入庫"
+  },
+  {
+    "title": "21_github_learn · Project-Centric Knowledge Ops",
+    "repository": "arislee1979-afk/50_github_learn",
+    "url": "https://arislee1979-afk.github.io/50_github_learn/",
+    "category": "工具與方法",
+    "tags": [
+      "50_github_learn"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-08-04T03:13:02+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/50_github_learn/commit/5637c68a1af1936934fce58467bfdb6370991858",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-08-04T03:13:02+08:00",
     "date_basis": "file_created_at",
     "date_label": "2026-08-04 03:13 · HTML 首次入庫"
+  },
+  {
+    "title": "21_github_learn · Project-Centric Knowledge Ops",
+    "repository": "arislee1979-afk/50_github_learn",
+    "url": "https://arislee1979-afk.github.io/50_github_learn/index.html",
+    "category": "工具與方法",
+    "tags": [
+      "50_github_learn"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-08-04T03:13:02+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/50_github_learn/commit/5637c68a1af1936934fce58467bfdb6370991858",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-08-04T03:13:02+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-08-04 03:13 · HTML 首次入庫"
+  },
+  {
+    "title": "Joy.Edu · 學習與探索",
+    "repository": "arislee1979-afk/91_joy_edu",
+    "url": "https://arislee1979-afk.github.io/91_joy_edu/",
+    "category": "教育與成長",
+    "tags": [
+      "91_joy_edu"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-06-07T15:23:39+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/91_joy_edu/commit/e792c35f9c900a507023e84e413438fef85a5744",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-06-07T15:23:39+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-06-07 15:23 · HTML 首次入庫"
+  },
+  {
+    "title": "Joy.Edu · 學習與探索",
+    "repository": "arislee1979-afk/91_joy_edu",
+    "url": "https://arislee1979-afk.github.io/91_joy_edu/index.html",
+    "category": "教育與成長",
+    "tags": [
+      "91_joy_edu"
+    ],
+    "published_at": null,
+    "file_created_at": "2026-06-07T15:23:39+08:00",
+    "file_created_source": "https://github.com/arislee1979-afk/91_joy_edu/commit/e792c35f9c900a507023e84e413438fef85a5744",
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": "2026-06-07T15:23:39+08:00",
+    "date_basis": "file_created_at",
+    "date_label": "2026-06-07 15:23 · HTML 首次入庫"
+  },
+  {
+    "title": "Coach Dan Go 核心思想與高績效體態全景",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/06_CoachDanGo/index-light.html",
+    "category": "人物研究",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Coach Dan Go 核心思想與高績效體態全景 · 知識層",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/06_CoachDanGo/index.html",
+    "category": "人物研究",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Coach Dan Go 創業者身心健康系統架構 Diagram",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/06_CoachDanGo/l2/output/coachdango-system.html",
+    "category": "人物研究",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Coach Dan Go 核心思想與高績效體態全景",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/06_CoachDanGo/presentation-claude/index.html",
+    "category": "人物研究",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Rob Walling SaaS 創業者全景知識庫",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/07_RobWalling/index-light.html",
+    "category": "人物研究",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Rob Walling SaaS 創業者全景知識庫",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/07_RobWalling/index.html",
+    "category": "人物研究",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Rob Walling SaaS 創業者全景方法論與生態架構",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/07_RobWalling/l2/output/robwalling-system.html",
+    "category": "人物研究",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Rob Walling SaaS 創業者全景知識庫",
+    "repository": "arislee1979-afk/10_YT_knowledge",
+    "url": "https://arislee1979-afk.github.io/10_YT_knowledge/topics/07_RobWalling/presentation-claude/index.html",
+    "category": "人物研究",
+    "tags": [
+      "10_YT_knowledge"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "目前狀態總覽",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "目前狀態總覽",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/index.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Codex 交接：13 PR backlog 與 Muse Cycle 12",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/briefings/20260926_Codex_13_PR_backlog_handoff.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "GitHub Repo 目錄｜24_meta_muse",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/project-directory/index.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Repo 關係圖",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/project-directory/relationships.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Cycle 02：13 半導體深掃與兄弟庫 Hub 模式",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260926_1230_Cycle02_13%E5%8D%8A%E5%B0%8E%E9%AB%94%E6%B7%B1%E6%8E%83%E8%88%87%E5%85%84%E5%BC%9F%E5%BA%ABHub%E6%A8%A1%E5%BC%8F.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Cycle 03：0_Graph 契約層與三方 Review 帳本深掃",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260926_1245_Cycle03_0Graph%E5%A5%91%E7%B4%84%E5%B1%A4%E8%88%87%E4%B8%89%E6%96%B9Review%E5%B8%B3%E6%9C%AC%E6%B7%B1%E6%8E%83.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Cycle 04：深掃 30_investment_hub",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260926_1310_Cycle04_30%E6%8A%95%E8%B3%87Hub%E6%B7%B1%E6%8E%83.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Cycle 05：深掃 17_deepseek_Kimi",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260926_1330_Cycle05_17%E6%B7%B1%E6%8E%83.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Cycle 06：驗證 13／20 上游 freshness",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260926_1400_Cycle06_13%E8%88%8720Freshness%E9%A9%97%E8%AD%89.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Cycle 07：重核 30 的 03 operational notes",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260926_1430_Cycle07_03%E7%87%9F%E9%81%8B%E7%AD%86%E8%A8%98%E9%87%8D%E6%A0%B8.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Cycle 08：深掃 21_github_learn",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260926_1500_Cycle08_21%E6%B7%B1%E6%8E%83.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Cycle 09：重核 30 的 04 weekly review operational guide",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260926_1530_Cycle09_04%E7%87%9F%E9%81%8B%E6%8C%87%E5%8D%97%E9%87%8D%E6%A0%B8.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Cycle 10：Student Pack 白名單驗證",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260926_1600_Cycle10_StudentPack%E7%99%BD%E5%90%8D%E5%96%AE%E9%A9%97%E8%AD%89.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Cycle 11：追查 13 產線 09-16 後停產原因",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260926_1630_Cycle11_13%E7%94%A2%E7%B7%9A%E5%81%9C%E7%94%A2%E8%BF%BD%E6%9F%A5.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Cycle 12：09_personal_care／23_android 唯讀核對",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260926_2125_Cycle12_09%E8%88%8723%E5%94%AF%E8%AE%80%E6%A0%B8%E5%B0%8D.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Cycle 13：joy-ai-edu-for-joy／ingestion_engine 唯讀深掃",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260926_2205_Cycle13_joy%E8%88%87ingestion%E5%94%AF%E8%AE%80%E6%B7%B1%E6%8E%83.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Cycle 14：Grok X sentinel 09-13／14 兩庫同步停止追查",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260926_2235_Cycle14_GrokXSentinel%E5%90%8C%E6%AD%A5%E5%81%9C%E6%AD%A2%E8%BF%BD%E6%9F%A5.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Cycle 19：B 群三庫深掃",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260927_0140_Cycle19_B%E7%BE%A4%E4%B8%89%E5%BA%AB%E6%B7%B1%E6%8E%83.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Cycle 15：0_route_setup 深掃",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260927_0145_Cycle15_0route_setup%E6%B7%B1%E6%8E%83.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Cycle 20：C＋D 群四庫深掃",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260927_0145_Cycle20_CD%E7%BE%A4%E5%9B%9B%E5%BA%AB%E6%B7%B1%E6%8E%83.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Cycle 21：E 群五庫深掃",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260927_0150_Cycle21_E%E7%BE%A4%E4%BA%94%E5%BA%AB%E6%B7%B1%E6%8E%83.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Cycle 16：ai-infra 深掃",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260927_0200_Cycle16_ai-infra%E6%B7%B1%E6%8E%83.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Cycle 22：F＋G＋H 群深掃",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260927_0200_Cycle22_FGH%E7%BE%A4%E6%B7%B1%E6%8E%83.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Cycle 17：32_wallos_subscription_tracker 深掃",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260927_0210_Cycle17_32_wallos%E6%B7%B1%E6%8E%83.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Cycle 23：第一次大盤點總覽（39／39）",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260927_0215_Cycle23_%E7%AC%AC%E4%B8%80%E8%BC%AA%E7%9B%A4%E9%BB%9E%E7%B8%BD%E8%A6%BD.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Cycle 18：31_VSCODE_setup 深掃",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260927_0230_Cycle18_31_VSCODE%E6%B7%B1%E6%8E%83.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "PR #4 Phase 0–5：全帳號 Repo 盤點與專案目錄分類草案",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/research/20260927_0230_PR4%E5%B0%88%E6%A1%88%E7%9B%AE%E9%8C%84%E7%9B%A4%E9%BB%9E%E8%88%87%E5%88%86%E9%A1%9E%E8%8D%89%E6%A1%88.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "目前狀態總覽",
+    "repository": "arislee1979-afk/40_meta_muse",
+    "url": "https://arislee1979-afk.github.io/40_meta_muse/reports/%E7%9B%AE%E5%89%8D%E7%8B%80%E6%85%8B%E7%B8%BD%E8%A6%BD.html",
+    "category": "Agent 治理",
+    "tags": [
+      "40_meta_muse"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "GitHub 知識管理 · 站點目錄",
+    "repository": "arislee1979-afk/50_github_learn",
+    "url": "https://arislee1979-afk.github.io/50_github_learn/sites/index.html",
+    "category": "工具與方法",
+    "tags": [
+      "50_github_learn"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "25_hermes 知識庫 · Hermes 桌面版 Harness 全景閱讀站 (L2)",
+    "repository": "arislee1979-afk/50_hermes",
+    "url": "https://arislee1979-afk.github.io/50_hermes/",
+    "category": "系統工程",
+    "tags": [
+      "50_hermes"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "25_hermes 知識庫 · Hermes 桌面版 Harness 全景閱讀站 (L2)",
+    "repository": "arislee1979-afk/50_hermes",
+    "url": "https://arislee1979-afk.github.io/50_hermes/index.html",
+    "category": "系統工程",
+    "tags": [
+      "50_hermes"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Hermes 桌面版 Harness 知識站",
+    "repository": "arislee1979-afk/50_hermes",
+    "url": "https://arislee1979-afk.github.io/50_hermes/knowledge/claude/index.html",
+    "category": "系統工程",
+    "tags": [
+      "50_hermes"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Hermes 桌面版 Harness 知識站",
+    "repository": "arislee1979-afk/50_hermes",
+    "url": "https://arislee1979-afk.github.io/50_hermes/knowledge/flash/index.html",
+    "category": "系統工程",
+    "tags": [
+      "50_hermes"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "Hermes 桌面版 Harness 全域架構拓撲圖",
+    "repository": "arislee1979-afk/50_hermes",
+    "url": "https://arislee1979-afk.github.io/50_hermes/knowledge/output/hermes-architecture.html",
+    "category": "系統工程",
+    "tags": [
+      "50_hermes"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "《人類簡史》第四部「科學革命」全景知識庫",
+    "repository": "arislee1979-afk/50_WeRead",
+    "url": "https://arislee1979-afk.github.io/50_WeRead/",
+    "category": "歷史與文明",
+    "tags": [
+      "50_WeRead"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "《人類簡史》第四部「科學革命」全景知識庫",
+    "repository": "arislee1979-afk/50_WeRead",
+    "url": "https://arislee1979-afk.github.io/50_WeRead/index-light.html",
+    "category": "歷史與文明",
+    "tags": [
+      "50_WeRead"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "《人類簡史》第四部「科學革命」全景知識庫",
+    "repository": "arislee1979-afk/50_WeRead",
+    "url": "https://arislee1979-afk.github.io/50_WeRead/index.html",
+    "category": "歷史與文明",
+    "tags": [
+      "50_WeRead"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "尤瓦爾·赫拉利《人類簡史》第四部「科學革命」全景知識圖譜",
+    "repository": "arislee1979-afk/50_WeRead",
+    "url": "https://arislee1979-afk.github.io/50_WeRead/l2/output/sapiens-scientific-revolution.html",
+    "category": "歷史與文明",
+    "tags": [
+      "50_WeRead"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "《人類簡史》第四部「科學革命」全景知識庫",
+    "repository": "arislee1979-afk/50_WeRead",
+    "url": "https://arislee1979-afk.github.io/50_WeRead/presentation-claude/index.html",
+    "category": "歷史與文明",
+    "tags": [
+      "50_WeRead"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "《人類簡史》第四部「科學革命」全景知識庫",
+    "repository": "arislee1979-afk/50_WeRead",
+    "url": "https://arislee1979-afk.github.io/50_WeRead/presentation/%E4%BA%BA%E9%A1%9E%E7%B0%A1%E5%8F%B2%E7%AC%AC%E5%9B%9B%E9%83%A8%E5%88%86%E7%A7%91%E5%AD%B8%E9%9D%A9%E5%91%BD.html",
+    "category": "歷史與文明",
+    "tags": [
+      "50_WeRead"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "人類簡史 第四部分 科學革命 · 知識層",
+    "repository": "arislee1979-afk/50_WeRead",
+    "url": "https://arislee1979-afk.github.io/50_WeRead/%E4%BA%BA%E9%A1%9E%E7%B0%A1%E5%8F%B2%E7%AC%AC%E5%9B%9B%E9%83%A8%E5%88%86%E7%A7%91%E5%AD%B8%E9%9D%A9%E5%91%BD.html",
+    "category": "歷史與文明",
+    "tags": [
+      "50_WeRead"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "中年與狗 · 每日照片日誌",
+    "repository": "arislee1979-afk/67_kuri",
+    "url": "https://arislee1979-afk.github.io/67_kuri/",
+    "category": "個人日誌",
+    "tags": [
+      "67_kuri"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "人類簡史 第四部分 科學革命 · 知識層",
+    "repository": "arislee1979-afk/80_sapiens_part4",
+    "url": "https://arislee1979-afk.github.io/80_sapiens_part4/",
+    "category": "歷史與文明",
+    "tags": [
+      "80_sapiens_part4"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
+  },
+  {
+    "title": "人類簡史 第四部分 科學革命 · 知識層",
+    "repository": "arislee1979-afk/80_sapiens_part4",
+    "url": "https://arislee1979-afk.github.io/80_sapiens_part4/index.html",
+    "category": "歷史與文明",
+    "tags": [
+      "80_sapiens_part4"
+    ],
+    "published_at": null,
+    "file_created_at": null,
+    "file_created_source": null,
+    "status": "LIVE",
+    "http_status": 200,
+    "checked_at": "2026-10-14T15:51:30.044511+00:00",
+    "sort_at": null,
+    "date_basis": null,
+    "date_label": "日期未知"
   }
 ]

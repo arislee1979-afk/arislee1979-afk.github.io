@@ -1,0 +1,3 @@
+# Preserve byte-identical licensed Homer upstream files; their whitespace is upstream.
+site/LICENSE-Homer -whitespace
+site/assets/*.dist -whitespace

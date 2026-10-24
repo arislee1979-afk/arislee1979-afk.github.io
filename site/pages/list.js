@@ -14,6 +14,8 @@ function filterRows() {
   document.getElementById("empty").hidden = count !== 0;
 }
 form.hidden = false;
+const presetCategory = new URLSearchParams(location.search).get("category");
+if (presetCategory && Array.from(category.options).some(o => o.value === presetCategory)) category.value = presetCategory;
 form.addEventListener("submit", event => event.preventDefault());
 search.addEventListener("input", filterRows);
 category.addEventListener("change", filterRows);

@@ -1,8 +1,8 @@
 {
   "renderer": "claude",
-  "source_sha256": "8e332856875663c12e062dfd36d727c3aca54f99041c4ed8252e60f77444e4d7",
+  "source_sha256": "5066e7d24e8713d31cec21b578e71dd3ff4e2fade4a5f20d30bef40970a895b0",
   "output_sha256": {
-    "l2/site-portal-claude/index.html": "6c755cf1ccdae6fada47dd6dd5f38228be73dc0472560c2c3d33d4c32ac3803f",
+    "l2/site-portal-claude/index.html": "4b71fc1b10819dc0012cc9313063d05d1ee0065133335948dc097213ce010147",
     "l2/site-portal-claude/provenance.json": "7f9ad8882c08e6b0db6af4bc4eca509a21be157869f5439f5dfa847693b38344",
     "l2/site-portal-claude/assets/claude/tokens.css": "9dbc9382f83f905e1fc31b3aa65f8574ad7bfc90f4e2459df7450b494a080248",
     "l2/site-portal-claude/assets/flash/components/reading-toc.js": "02ec6e01e2fb2778858d1432b3821d6a2f579ccca0ef868b025fb9ac0168ec89",

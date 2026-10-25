@@ -1,0 +1,17 @@
+{
+  "renderer": "claude",
+  "source_sha256": "8e332856875663c12e062dfd36d727c3aca54f99041c4ed8252e60f77444e4d7",
+  "output_sha256": {
+    "l2/site-portal-claude/index.html": "6c755cf1ccdae6fada47dd6dd5f38228be73dc0472560c2c3d33d4c32ac3803f",
+    "l2/site-portal-claude/provenance.json": "7f9ad8882c08e6b0db6af4bc4eca509a21be157869f5439f5dfa847693b38344",
+    "l2/site-portal-claude/assets/claude/tokens.css": "9dbc9382f83f905e1fc31b3aa65f8574ad7bfc90f4e2459df7450b494a080248",
+    "l2/site-portal-claude/assets/flash/components/reading-toc.js": "02ec6e01e2fb2778858d1432b3821d6a2f579ccca0ef868b025fb9ac0168ec89",
+    "l2/site-portal-claude/assets/flash/components/diagram-lightbox.js": "879cfa4dd96447c73634d49f55e8ce9f1d27755f2691149aaf3f576faa91d180"
+  },
+  "tool_versions": {
+    "node": "v24.15.0",
+    "marked": "15.0.12",
+    "mermaid": "10.9.3"
+  },
+  "canonical_blocks": 18
+}

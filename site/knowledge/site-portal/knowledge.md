@@ -8,7 +8,7 @@
 
 網站書架只有一份人工核准名冊：`50_github_learn` 的 `site-directory/allowlist.json`。建置腳本把名冊與最近一次健康檢查合併，輸出白名單欄位的公開快照 `sites.json` 與 `export.json`，再複製到展示 Repo `arislee1979-afk.github.io` 的 `site/`。展示 Repo 合併到 main 後，GitHub Actions 只部署 `site/`（C1、C2、C3）。
 
-名冊目前有 74 個已核准網頁、8 個分類，每個標題只保留一個網址；最近一次檢查 74 個為 LIVE、0 個為 404（C4、C6）。健康狀態只是快照，不代表之後仍可開啟（C5）。
+名冊目前有 75 個已核准網頁、8 個分類，每個標題只保留一個網址；最近一次檢查 75 個為 LIVE、0 個為 404（C4、C6）。健康狀態只是快照，不代表之後仍可開啟（C5）。
 
 ```mermaid
 flowchart TB
@@ -37,7 +37,7 @@ Archify 互動架構圖：[發布架構圖](https://arislee1979-afk.github.io/ar
 | C1 | `allowlist.json` 是唯一人工核准名冊，展示 Repo 沒有第二份可編輯名冊 | FACT | S1、S2、S3 |
 | C2 | 公開快照只輸出白名單欄位，不匯出私人候選與 approval_basis | FACT | S2 |
 | C3 | 展示 Repo main push 後 Actions 只部署 `site/`，並以工作分支與 PR 合併 | FACT | S2、S3 |
-| C4 | 目前 74 個核准網頁、8 個分類，最近檢查 74 LIVE、0 個 404 | FACT | S1、S4 |
+| C4 | 目前 75 個核准網頁、8 個分類，最近檢查 75 LIVE、0 個 404 | FACT | S1、S4 |
 | C5 | 健康狀態是最近一次檢查的快照，不保證現在仍可開啟 | FACT | S2、S4 |
 | C6 | 名冊已依標題去重：原 114 筆合併為 74 筆，每個標題只留一個網址（優先序：presentation-claude > light > 其他）；被合併的 40 筆存於 `allowlist-merged-duplicates.json` | FACT | S1 |
 | C7 | 暖色長文版型比卡片目錄更適合首次閱讀者理解全貌 | INFERENCE | 閱讀契約的設計假設，未做使用者研究 |
